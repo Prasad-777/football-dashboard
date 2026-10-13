@@ -1,0 +1,1251 @@
+player_id,player_name,team,position,season,age,matches_played,minutes_played,goals,assists,shots,shots_on_target,key_passes,dribbles,tackles,yellow_cards,red_cards,clean_sheets,saves,rating
+1,Carlos Santos,Ironclad FC,GK,2019-20,19,30,2460,0,0,1,0,5,0,17,9,2,11,40,5.96
+2,Luca Nakamura,Ironclad FC,GK,2019-20,33,21,1344,0,1,1,1,7,1,12,4,2,2,112,6.0
+3,Ahmed Mueller,Ironclad FC,GK,2019-20,27,12,756,0,1,2,1,2,4,5,7,2,5,47,6.28
+4,Yuki Okafor,Ironclad FC,DEF,2019-20,25,19,1729,4,6,11,7,10,17,31,0,1,0,0,6.8
+5,Kwame Ferreira,Ironclad FC,DEF,2019-20,21,35,3010,2,7,6,3,7,36,39,4,2,0,0,5.94
+6,Ivan Rossi,Ironclad FC,DEF,2019-20,21,27,2052,1,1,6,3,2,37,60,8,1,0,0,5.65
+7,Pedro Dubois,Ironclad FC,DEF,2019-20,32,30,2670,2,6,10,4,8,36,43,6,1,0,0,5.92
+8,Oluwaseun Bianchi,Ironclad FC,DEF,2019-20,20,31,1860,4,6,11,9,8,21,59,7,1,0,0,6.71
+9,Henri Johnson,Ironclad FC,DEF,2019-20,27,6,384,1,0,5,3,8,27,60,5,0,0,0,6.05
+10,Marco Costa,Ironclad FC,DEF,2019-20,33,23,1817,0,4,7,0,7,26,38,4,2,0,0,5.57
+11,David Martinez,Ironclad FC,DEF,2019-20,22,37,3293,0,1,8,2,10,34,23,2,1,0,0,5.7
+12,Emil Park,Ironclad FC,MID,2019-20,31,21,1827,13,12,22,21,15,35,30,1,1,0,0,7.65
+13,Seun Kim,Ironclad FC,MID,2019-20,18,30,2550,9,9,23,16,18,64,18,1,1,0,0,7.26
+14,Takeshi Tanaka,Ironclad FC,MID,2019-20,31,10,730,3,6,17,8,15,46,41,0,1,0,0,6.92
+15,Rui Mensah,Ironclad FC,MID,2019-20,20,17,1547,6,13,16,16,15,55,23,7,0,0,0,7.34
+16,Matteo Andersen,Ironclad FC,MID,2019-20,32,29,2001,1,3,11,6,10,17,55,2,2,0,0,6.11
+17,Jorge Osei,Ironclad FC,MID,2019-20,24,23,1518,6,15,8,8,21,39,47,4,0,0,0,7.7
+18,Kenji Petrov,Ironclad FC,MID,2019-20,30,8,656,8,3,23,8,4,57,30,4,0,0,0,6.3
+19,Ade Walker,Ironclad FC,MID,2019-20,24,27,1701,2,11,18,17,20,27,18,5,1,0,0,6.89
+20,James Silva,Ironclad FC,FWD,2019-20,24,14,840,4,13,17,14,13,42,13,0,0,0,0,7.19
+21,Carlos Santos,Ironclad FC,FWD,2019-20,27,19,1748,4,8,21,8,17,66,12,3,1,0,0,6.48
+22,Luca Nakamura,Ironclad FC,FWD,2019-20,28,14,840,10,11,12,10,14,47,22,5,0,0,0,7.78
+23,Ahmed Mueller,Ironclad FC,FWD,2019-20,20,8,552,7,9,29,24,12,75,18,1,1,0,0,6.91
+24,Yuki Okafor,Ironclad FC,FWD,2019-20,36,12,732,4,7,21,18,11,31,10,8,2,0,0,7.03
+25,Kwame Ferreira,Ironclad FC,FWD,2019-20,24,25,1750,18,7,45,44,8,79,7,1,1,0,0,8.14
+26,Ivan Rossi,Blue Wave SC,GK,2019-20,18,36,3384,0,0,2,0,8,3,6,1,1,16,109,5.87
+27,Pedro Dubois,Blue Wave SC,GK,2019-20,18,30,2130,0,1,1,1,4,4,10,2,0,1,93,5.89
+28,Oluwaseun Bianchi,Blue Wave SC,GK,2019-20,36,6,384,0,0,2,1,5,0,18,7,2,2,37,5.35
+29,Henri Johnson,Blue Wave SC,DEF,2019-20,23,15,1410,4,2,13,8,3,22,49,9,0,0,0,6.0
+30,Marco Costa,Blue Wave SC,DEF,2019-20,23,9,540,4,7,5,5,13,22,37,7,1,0,0,6.46
+31,David Martinez,Blue Wave SC,DEF,2019-20,35,31,1860,4,0,11,7,1,9,69,5,2,0,0,6.05
+32,Emil Park,Blue Wave SC,DEF,2019-20,37,14,896,2,4,8,5,6,38,38,9,2,0,0,5.62
+33,Seun Kim,Blue Wave SC,DEF,2019-20,29,23,1495,3,6,4,4,10,9,63,0,2,0,0,6.8
+34,Takeshi Tanaka,Blue Wave SC,DEF,2019-20,21,35,2975,4,3,8,8,3,32,58,6,0,0,0,6.93
+35,Rui Mensah,Blue Wave SC,DEF,2019-20,23,31,2356,1,2,6,6,10,26,65,7,1,0,0,6.09
+36,Matteo Andersen,Blue Wave SC,DEF,2019-20,20,17,1564,2,0,8,3,4,35,77,5,0,0,0,5.67
+37,Jorge Osei,Blue Wave SC,MID,2019-20,37,29,2581,11,17,14,12,22,13,54,3,0,0,0,8.53
+38,Kenji Petrov,Blue Wave SC,MID,2019-20,24,15,1380,2,16,20,4,18,19,39,5,0,0,0,6.46
+39,Ade Walker,Blue Wave SC,MID,2019-20,28,5,420,0,5,5,2,10,13,51,5,2,0,0,5.83
+40,James Silva,Blue Wave SC,MID,2019-20,34,15,1410,7,13,24,16,13,61,49,4,0,0,0,7.15
+41,Carlos Santos,Blue Wave SC,MID,2019-20,22,13,1066,7,17,16,7,20,12,24,9,1,0,0,6.99
+42,Luca Nakamura,Blue Wave SC,MID,2019-20,19,32,2016,0,8,18,15,16,15,44,8,2,0,0,6.77
+43,Ahmed Mueller,Blue Wave SC,MID,2019-20,24,31,2480,10,12,23,20,13,56,40,8,1,0,0,7.63
+44,Yuki Okafor,Blue Wave SC,MID,2019-20,37,33,2937,6,14,14,8,16,48,44,0,0,0,0,7.37
+45,Kwame Ferreira,Blue Wave SC,FWD,2019-20,21,18,1458,6,4,18,15,7,35,13,4,1,0,0,6.87
+46,Ivan Rossi,Blue Wave SC,FWD,2019-20,22,14,1218,28,9,55,49,12,43,21,4,1,0,0,9.5
+47,Pedro Dubois,Blue Wave SC,FWD,2019-20,27,26,1742,24,7,40,25,9,54,19,1,2,0,0,8.3
+48,Oluwaseun Bianchi,Blue Wave SC,FWD,2019-20,29,27,2079,25,12,30,28,12,53,23,6,2,0,0,8.69
+49,Henri Johnson,Blue Wave SC,FWD,2019-20,28,35,2975,4,13,32,15,18,66,5,4,2,0,0,7.14
+50,Marco Costa,Blue Wave SC,FWD,2019-20,36,36,2268,7,10,25,16,16,16,3,1,0,0,0,7.24
+51,David Martinez,Red Storm United,GK,2019-20,18,23,1748,0,0,2,2,5,3,12,4,0,9,112,6.76
+52,Emil Park,Red Storm United,GK,2019-20,29,32,2048,0,1,0,0,8,0,15,4,2,8,85,5.92
+53,Seun Kim,Red Storm United,GK,2019-20,33,29,2059,0,1,2,2,4,3,17,5,0,9,47,6.0
+54,Takeshi Tanaka,Red Storm United,DEF,2019-20,37,9,567,5,4,9,5,11,18,64,1,1,0,0,7.02
+55,Rui Mensah,Red Storm United,DEF,2019-20,25,30,2430,2,1,5,2,8,39,59,8,2,0,0,5.45
+56,Matteo Andersen,Red Storm United,DEF,2019-20,23,33,2970,3,0,4,3,6,25,48,5,0,0,0,6.13
+57,Jorge Osei,Red Storm United,DEF,2019-20,32,32,2400,1,7,5,1,10,20,38,5,2,0,0,6.33
+58,Kenji Petrov,Red Storm United,DEF,2019-20,28,8,584,5,0,13,12,8,14,61,0,0,0,0,7.06
+59,Ade Walker,Red Storm United,DEF,2019-20,18,26,1664,3,4,3,3,12,36,60,0,0,0,0,6.31
+60,James Silva,Red Storm United,DEF,2019-20,22,33,2871,4,1,4,4,7,15,74,9,0,0,0,5.95
+61,Carlos Santos,Red Storm United,DEF,2019-20,21,6,528,3,7,11,5,15,13,77,2,0,0,0,6.89
+62,Luca Nakamura,Red Storm United,MID,2019-20,37,35,2240,10,15,24,16,15,60,50,4,0,0,0,7.47
+63,Ahmed Mueller,Red Storm United,MID,2019-20,31,21,1638,10,10,23,16,11,61,14,8,2,0,0,7.0
+64,Yuki Okafor,Red Storm United,MID,2019-20,18,13,819,9,10,28,19,10,46,47,0,1,0,0,6.98
+65,Kwame Ferreira,Red Storm United,MID,2019-20,22,34,2584,9,8,14,13,9,15,28,3,2,0,0,7.25
+66,Ivan Rossi,Red Storm United,MID,2019-20,28,30,2040,8,15,20,11,24,18,32,5,0,0,0,7.62
+67,Pedro Dubois,Red Storm United,MID,2019-20,28,28,1932,9,9,27,17,14,18,17,6,1,0,0,7.17
+68,Oluwaseun Bianchi,Red Storm United,MID,2019-20,20,8,752,1,17,8,5,21,28,14,7,1,0,0,7.04
+69,Henri Johnson,Red Storm United,MID,2019-20,37,18,1170,5,15,10,8,18,45,57,9,0,0,0,7.26
+70,Marco Costa,Red Storm United,FWD,2019-20,27,20,1300,6,1,24,17,8,49,10,5,1,0,0,6.56
+71,David Martinez,Red Storm United,FWD,2019-20,30,15,1020,23,4,40,32,10,40,6,5,1,0,0,8.36
+72,Emil Park,Red Storm United,FWD,2019-20,34,29,2291,26,1,53,46,6,45,21,2,2,0,0,8.32
+73,Seun Kim,Red Storm United,FWD,2019-20,28,32,2336,14,0,19,19,8,15,3,8,0,0,0,7.05
+74,Takeshi Tanaka,Red Storm United,FWD,2019-20,29,16,1232,5,10,15,14,10,61,3,4,2,0,0,7.33
+75,Rui Mensah,Red Storm United,FWD,2019-20,26,17,1428,4,3,22,13,6,18,17,5,2,0,0,6.74
+76,Matteo Andersen,Golden Eagles CF,GK,2019-20,26,30,2220,0,0,2,1,9,0,15,6,1,11,95,5.76
+77,Jorge Osei,Golden Eagles CF,GK,2019-20,18,29,2262,0,0,0,0,9,0,15,9,2,6,103,5.88
+78,Kenji Petrov,Golden Eagles CF,GK,2019-20,29,31,2914,0,1,0,0,4,2,12,0,2,13,59,5.89
+79,Ade Walker,Golden Eagles CF,DEF,2019-20,33,20,1520,5,1,8,8,10,13,30,0,1,0,0,6.36
+80,James Silva,Golden Eagles CF,DEF,2019-20,22,11,847,5,4,12,5,6,5,49,2,2,0,0,6.56
+81,Carlos Santos,Golden Eagles CF,DEF,2019-20,34,23,1886,2,5,9,2,12,26,65,3,2,0,0,5.94
+82,Luca Nakamura,Golden Eagles CF,DEF,2019-20,28,35,3115,1,3,6,6,6,29,66,5,1,0,0,6.36
+83,Ahmed Mueller,Golden Eagles CF,DEF,2019-20,36,8,712,2,2,7,5,7,34,49,1,0,0,0,6.67
+84,Yuki Okafor,Golden Eagles CF,DEF,2019-20,25,25,2050,2,1,2,2,2,16,40,2,0,0,0,6.73
+85,Kwame Ferreira,Golden Eagles CF,DEF,2019-20,31,19,1406,1,1,6,3,3,5,53,1,2,0,0,6.02
+86,Ivan Rossi,Golden Eagles CF,DEF,2019-20,32,37,3256,3,7,7,6,16,31,79,5,2,0,0,7.11
+87,Pedro Dubois,Golden Eagles CF,MID,2019-20,30,30,2280,12,3,16,16,7,53,35,6,1,0,0,7.46
+88,Oluwaseun Bianchi,Golden Eagles CF,MID,2019-20,26,37,2331,13,4,20,20,11,54,51,6,1,0,0,7.13
+89,Henri Johnson,Golden Eagles CF,MID,2019-20,23,6,462,10,17,20,19,21,69,53,3,2,0,0,7.96
+90,Marco Costa,Golden Eagles CF,MID,2019-20,19,31,2542,1,5,12,4,14,58,37,4,2,0,0,5.53
+91,David Martinez,Golden Eagles CF,MID,2019-20,19,17,1581,0,7,3,3,14,50,56,6,2,0,0,6.73
+92,Emil Park,Golden Eagles CF,MID,2019-20,32,29,2117,11,8,13,11,14,24,55,2,2,0,0,7.02
+93,Seun Kim,Golden Eagles CF,MID,2019-20,37,21,1449,9,10,11,11,18,34,47,6,2,0,0,7.18
+94,Takeshi Tanaka,Golden Eagles CF,MID,2019-20,26,33,2574,4,14,21,16,19,27,55,4,1,0,0,6.96
+95,Rui Mensah,Golden Eagles CF,FWD,2019-20,28,34,3060,5,9,9,7,16,33,17,4,2,0,0,7.35
+96,Matteo Andersen,Golden Eagles CF,FWD,2019-20,30,14,1218,12,7,17,13,16,50,4,8,2,0,0,7.42
+97,Jorge Osei,Golden Eagles CF,FWD,2019-20,19,17,1309,27,3,42,28,6,19,9,0,0,0,0,8.45
+98,Kenji Petrov,Golden Eagles CF,FWD,2019-20,29,5,350,13,13,32,21,17,34,22,8,2,0,0,8.05
+99,Ade Walker,Golden Eagles CF,FWD,2019-20,28,22,2068,8,4,35,23,7,26,10,8,2,0,0,6.71
+100,James Silva,Golden Eagles CF,FWD,2019-20,37,29,1943,17,8,37,34,10,30,2,2,0,0,0,7.82
+101,Carlos Santos,Silver Fox Athletic,GK,2019-20,24,33,1980,0,0,0,0,7,1,13,6,1,13,78,5.83
+102,Luca Nakamura,Silver Fox Athletic,GK,2019-20,36,37,2960,0,1,0,0,8,3,17,4,0,17,46,6.19
+103,Ahmed Mueller,Silver Fox Athletic,GK,2019-20,24,8,592,0,1,0,0,5,3,19,1,0,2,113,6.18
+104,Yuki Okafor,Silver Fox Athletic,DEF,2019-20,32,8,560,0,0,2,2,4,7,54,2,1,0,0,5.82
+105,Kwame Ferreira,Silver Fox Athletic,DEF,2019-20,18,6,534,0,5,3,3,11,7,66,4,0,0,0,6.18
+106,Ivan Rossi,Silver Fox Athletic,DEF,2019-20,27,18,1224,2,1,2,2,5,8,37,8,0,0,0,6.2
+107,Pedro Dubois,Silver Fox Athletic,DEF,2019-20,18,14,1078,0,2,4,3,6,24,45,8,1,0,0,5.72
+108,Oluwaseun Bianchi,Silver Fox Athletic,DEF,2019-20,23,24,1632,5,3,13,7,10,16,60,3,0,0,0,6.07
+109,Henri Johnson,Silver Fox Athletic,DEF,2019-20,36,21,1596,5,5,6,5,8,26,29,1,0,0,0,6.29
+110,Marco Costa,Silver Fox Athletic,DEF,2019-20,36,35,2310,4,0,5,5,4,29,26,2,0,0,0,6.5
+111,David Martinez,Silver Fox Athletic,DEF,2019-20,29,27,2403,2,0,4,3,4,23,71,1,2,0,0,6.43
+112,Emil Park,Silver Fox Athletic,MID,2019-20,33,14,952,3,16,15,10,25,68,32,9,0,0,0,7.42
+113,Seun Kim,Silver Fox Athletic,MID,2019-20,25,9,639,7,14,11,8,19,27,40,4,1,0,0,7.03
+114,Takeshi Tanaka,Silver Fox Athletic,MID,2019-20,24,33,2013,10,7,18,11,13,52,10,7,2,0,0,7.31
+115,Rui Mensah,Silver Fox Athletic,MID,2019-20,32,32,2272,1,16,5,1,23,24,39,1,2,0,0,6.39
+116,Matteo Andersen,Silver Fox Athletic,MID,2019-20,31,31,2387,1,17,7,1,22,65,10,9,1,0,0,6.25
+117,Jorge Osei,Silver Fox Athletic,MID,2019-20,29,23,2093,1,16,10,7,17,19,36,2,2,0,0,7.04
+118,Kenji Petrov,Silver Fox Athletic,MID,2019-20,19,9,630,4,12,23,4,12,21,51,5,0,0,0,7.16
+119,Ade Walker,Silver Fox Athletic,MID,2019-20,22,32,2176,8,11,13,10,18,41,37,6,1,0,0,7.4
+120,James Silva,Silver Fox Athletic,FWD,2019-20,32,13,1118,21,13,27,24,22,74,11,0,0,0,0,8.95
+121,Carlos Santos,Silver Fox Athletic,FWD,2019-20,33,19,1406,28,1,51,37,2,56,22,6,1,0,0,9.08
+122,Luca Nakamura,Silver Fox Athletic,FWD,2019-20,20,13,858,20,2,47,45,4,78,21,2,1,0,0,8.3
+123,Ahmed Mueller,Silver Fox Athletic,FWD,2019-20,27,26,2340,19,5,32,29,11,16,13,7,1,0,0,8.11
+124,Yuki Okafor,Silver Fox Athletic,FWD,2019-20,33,19,1197,23,12,44,40,17,70,21,0,0,0,0,9.33
+125,Kwame Ferreira,Silver Fox Athletic,FWD,2019-20,22,20,1200,6,13,35,27,22,66,10,8,1,0,0,7.0
+126,Ivan Rossi,Thunder Valley FC,GK,2019-20,25,16,1296,0,1,1,1,10,2,10,5,1,0,80,5.7
+127,Pedro Dubois,Thunder Valley FC,GK,2019-20,24,17,1224,0,0,2,2,0,1,6,3,0,1,50,5.77
+128,Oluwaseun Bianchi,Thunder Valley FC,GK,2019-20,37,11,693,0,0,2,1,2,4,13,9,0,2,47,5.74
+129,Henri Johnson,Thunder Valley FC,DEF,2019-20,19,20,1500,1,1,1,1,1,21,20,9,0,0,0,6.05
+130,Marco Costa,Thunder Valley FC,DEF,2019-20,31,34,2142,1,2,2,2,5,15,37,8,2,0,0,6.55
+131,David Martinez,Thunder Valley FC,DEF,2019-20,36,25,2350,2,7,7,2,16,19,24,3,0,0,0,5.9
+132,Emil Park,Thunder Valley FC,DEF,2019-20,29,31,2759,4,4,8,4,4,23,52,2,1,0,0,6.77
+133,Seun Kim,Thunder Valley FC,DEF,2019-20,21,17,1360,3,5,10,5,13,34,37,4,0,0,0,6.65
+134,Takeshi Tanaka,Thunder Valley FC,DEF,2019-20,33,6,402,3,7,7,7,14,13,27,1,1,0,0,7.09
+135,Rui Mensah,Thunder Valley FC,DEF,2019-20,23,25,1650,3,3,3,3,5,11,46,8,2,0,0,6.69
+136,Matteo Andersen,Thunder Valley FC,DEF,2019-20,29,33,2838,2,4,7,3,6,13,63,2,0,0,0,6.69
+137,Jorge Osei,Thunder Valley FC,MID,2019-20,19,34,2040,10,7,21,15,12,39,24,3,1,0,0,7.2
+138,Kenji Petrov,Thunder Valley FC,MID,2019-20,25,9,648,1,4,20,17,13,38,14,1,0,0,0,6.35
+139,Ade Walker,Thunder Valley FC,MID,2019-20,37,11,715,3,15,5,3,24,17,29,0,0,0,0,7.26
+140,James Silva,Thunder Valley FC,MID,2019-20,19,20,1860,5,10,16,15,19,21,43,1,2,0,0,7.33
+141,Carlos Santos,Thunder Valley FC,MID,2019-20,25,20,1780,2,15,20,12,15,30,44,9,1,0,0,7.17
+142,Luca Nakamura,Thunder Valley FC,MID,2019-20,31,25,1525,10,12,26,13,21,22,51,5,1,0,0,7.64
+143,Ahmed Mueller,Thunder Valley FC,MID,2019-20,33,5,395,13,6,20,16,10,13,53,7,0,0,0,7.22
+144,Yuki Okafor,Thunder Valley FC,MID,2019-20,33,25,1925,5,4,23,12,11,29,42,7,1,0,0,6.59
+145,Kwame Ferreira,Thunder Valley FC,FWD,2019-20,31,24,1488,14,8,42,30,9,33,14,0,2,0,0,8.06
+146,Ivan Rossi,Thunder Valley FC,FWD,2019-20,29,6,564,13,4,39,20,13,62,19,4,1,0,0,7.4
+147,Pedro Dubois,Thunder Valley FC,FWD,2019-20,21,14,1008,28,10,40,33,14,61,18,8,1,0,0,9.45
+148,Oluwaseun Bianchi,Thunder Valley FC,FWD,2019-20,29,21,1785,27,4,40,32,7,55,6,6,1,0,0,8.67
+149,Henri Johnson,Thunder Valley FC,FWD,2019-20,23,9,792,2,4,22,17,10,55,5,3,0,0,0,6.14
+150,Marco Costa,Thunder Valley FC,FWD,2019-20,34,11,715,23,13,49,47,19,27,19,1,0,0,0,8.94
+151,David Martinez,Coastline City SC,GK,2019-20,33,9,621,0,0,0,0,2,4,15,9,1,4,94,5.72
+152,Emil Park,Coastline City SC,GK,2019-20,33,36,2880,0,1,2,0,8,1,8,9,1,11,26,5.95
+153,Seun Kim,Coastline City SC,GK,2019-20,25,22,1320,0,1,1,0,5,4,15,1,2,11,81,6.25
+154,Takeshi Tanaka,Coastline City SC,DEF,2019-20,24,15,1335,3,5,7,7,8,27,46,8,0,0,0,6.99
+155,Rui Mensah,Coastline City SC,DEF,2019-20,37,35,2485,5,7,14,14,14,31,21,2,2,0,0,6.85
+156,Matteo Andersen,Coastline City SC,DEF,2019-20,30,20,1680,1,4,7,3,6,15,58,4,1,0,0,5.97
+157,Jorge Osei,Coastline City SC,DEF,2019-20,23,12,996,4,2,12,7,2,10,54,0,1,0,0,6.66
+158,Kenji Petrov,Coastline City SC,DEF,2019-20,20,32,2176,0,5,7,0,8,9,56,4,2,0,0,5.45
+159,Ade Walker,Coastline City SC,DEF,2019-20,36,10,600,2,3,8,4,12,37,72,6,0,0,0,5.81
+160,James Silva,Coastline City SC,DEF,2019-20,29,31,2108,1,3,9,5,4,28,33,7,2,0,0,5.59
+161,Carlos Santos,Coastline City SC,DEF,2019-20,21,18,1386,3,1,8,7,7,29,37,0,2,0,0,6.77
+162,Luca Nakamura,Coastline City SC,MID,2019-20,18,22,1386,1,12,16,6,15,68,15,2,1,0,0,6.45
+163,Ahmed Mueller,Coastline City SC,MID,2019-20,22,6,432,9,14,17,15,22,57,26,9,2,0,0,7.48
+164,Yuki Okafor,Coastline City SC,MID,2019-20,25,15,1020,10,13,26,13,21,39,18,2,0,0,0,7.99
+165,Kwame Ferreira,Coastline City SC,MID,2019-20,36,8,568,2,6,13,8,6,14,24,2,0,0,0,6.35
+166,Ivan Rossi,Coastline City SC,MID,2019-20,35,30,1890,0,7,13,4,8,59,47,0,0,0,0,6.56
+167,Pedro Dubois,Coastline City SC,MID,2019-20,23,32,2528,7,9,23,14,12,15,12,5,2,0,0,6.7
+168,Oluwaseun Bianchi,Coastline City SC,MID,2019-20,24,29,1943,7,10,22,11,13,37,45,4,0,0,0,6.83
+169,Henri Johnson,Coastline City SC,MID,2019-20,30,29,2697,1,14,4,1,15,20,26,0,2,0,0,6.5
+170,Marco Costa,Coastline City SC,FWD,2019-20,31,37,3293,4,13,24,23,16,41,6,1,2,0,0,7.61
+171,David Martinez,Coastline City SC,FWD,2019-20,37,33,2475,5,8,13,13,10,55,12,2,2,0,0,6.99
+172,Emil Park,Coastline City SC,FWD,2019-20,32,23,1679,24,5,45,35,5,11,12,9,1,0,0,8.43
+173,Seun Kim,Coastline City SC,FWD,2019-20,30,13,910,12,3,35,20,8,67,4,1,1,0,0,6.9
+174,Takeshi Tanaka,Coastline City SC,FWD,2019-20,20,22,1430,9,6,26,24,6,57,16,3,0,0,0,6.95
+175,Rui Mensah,Coastline City SC,FWD,2019-20,29,34,2958,19,10,25,19,14,72,21,8,1,0,0,8.73
+176,Matteo Andersen,Mountain Peak United,GK,2019-20,27,6,426,0,0,1,1,0,2,13,2,2,0,50,5.63
+177,Jorge Osei,Mountain Peak United,GK,2019-20,19,8,592,0,1,0,0,2,0,6,3,1,3,106,5.2
+178,Kenji Petrov,Mountain Peak United,GK,2019-20,25,22,1584,0,0,0,0,8,3,18,8,0,5,40,5.19
+179,Ade Walker,Mountain Peak United,DEF,2019-20,36,29,1827,0,0,4,0,1,19,57,8,2,0,0,5.68
+180,James Silva,Mountain Peak United,DEF,2019-20,33,27,2106,0,7,4,2,7,12,22,3,1,0,0,6.23
+181,Carlos Santos,Mountain Peak United,DEF,2019-20,36,35,3080,5,1,13,9,6,16,78,4,0,0,0,6.36
+182,Luca Nakamura,Mountain Peak United,DEF,2019-20,37,31,2263,4,4,8,5,6,27,27,1,2,0,0,6.77
+183,Ahmed Mueller,Mountain Peak United,DEF,2019-20,20,6,480,3,2,9,6,10,20,44,6,1,0,0,6.62
+184,Yuki Okafor,Mountain Peak United,DEF,2019-20,36,29,2117,4,2,6,5,5,38,47,4,0,0,0,6.52
+185,Kwame Ferreira,Mountain Peak United,DEF,2019-20,31,17,1207,5,2,5,5,2,23,42,3,0,0,0,6.88
+186,Ivan Rossi,Mountain Peak United,DEF,2019-20,37,17,1530,1,6,6,4,8,31,65,5,2,0,0,6.69
+187,Pedro Dubois,Mountain Peak United,MID,2019-20,21,24,1512,9,17,11,11,20,66,42,1,2,0,0,8.07
+188,Oluwaseun Bianchi,Mountain Peak United,MID,2019-20,37,5,405,0,16,14,1,16,43,55,3,2,0,0,6.9
+189,Henri Johnson,Mountain Peak United,MID,2019-20,22,21,1407,6,9,8,8,12,57,38,8,2,0,0,6.9
+190,Marco Costa,Mountain Peak United,MID,2019-20,35,23,1426,3,12,7,3,16,56,31,2,1,0,0,7.25
+191,David Martinez,Mountain Peak United,MID,2019-20,19,36,3132,11,15,16,16,23,45,56,5,1,0,0,7.66
+192,Emil Park,Mountain Peak United,MID,2019-20,25,31,2387,6,5,18,15,11,68,41,9,1,0,0,6.59
+193,Seun Kim,Mountain Peak United,MID,2019-20,20,18,1152,1,16,17,2,18,60,21,7,0,0,0,7.02
+194,Takeshi Tanaka,Mountain Peak United,MID,2019-20,19,5,460,7,10,17,13,11,51,31,6,2,0,0,6.98
+195,Rui Mensah,Mountain Peak United,FWD,2019-20,33,25,1600,1,8,15,14,10,46,24,4,0,0,0,6.26
+196,Matteo Andersen,Mountain Peak United,FWD,2019-20,27,16,1056,2,7,30,8,15,38,6,4,2,0,0,5.72
+197,Jorge Osei,Mountain Peak United,FWD,2019-20,29,26,2444,26,12,45,28,16,40,10,3,0,0,0,9.21
+198,Kenji Petrov,Mountain Peak United,FWD,2019-20,25,37,2812,28,9,31,30,12,59,6,5,2,0,0,8.76
+199,Ade Walker,Mountain Peak United,FWD,2019-20,24,35,3010,25,12,30,25,20,14,8,9,0,0,0,9.11
+200,James Silva,Mountain Peak United,FWD,2019-20,19,35,3150,17,9,30,30,9,41,20,1,2,0,0,8.03
+201,Carlos Santos,Riverside Rovers,GK,2019-20,33,11,847,0,0,0,0,8,0,19,1,2,0,87,5.8
+202,Luca Nakamura,Riverside Rovers,GK,2019-20,20,37,2997,0,1,1,1,4,3,19,5,1,2,112,6.51
+203,Ahmed Mueller,Riverside Rovers,GK,2019-20,28,12,1128,0,0,2,2,3,2,16,2,1,3,65,5.98
+204,Yuki Okafor,Riverside Rovers,DEF,2019-20,20,7,595,0,4,7,1,13,20,63,8,1,0,0,5.29
+205,Kwame Ferreira,Riverside Rovers,DEF,2019-20,24,10,900,1,2,10,4,7,12,69,6,2,0,0,6.33
+206,Ivan Rossi,Riverside Rovers,DEF,2019-20,18,12,948,0,2,1,0,3,7,75,1,1,0,0,6.1
+207,Pedro Dubois,Riverside Rovers,DEF,2019-20,23,22,1826,3,6,5,5,12,33,50,6,2,0,0,7.03
+208,Oluwaseun Bianchi,Riverside Rovers,DEF,2019-20,20,16,1008,0,3,2,1,12,20,44,8,1,0,0,6.11
+209,Henri Johnson,Riverside Rovers,DEF,2019-20,20,22,1628,1,4,4,1,10,27,31,1,1,0,0,5.71
+210,Marco Costa,Riverside Rovers,DEF,2019-20,33,28,2548,1,5,10,9,6,11,65,5,1,0,0,6.38
+211,David Martinez,Riverside Rovers,DEF,2019-20,18,21,1932,2,2,11,7,6,22,25,9,1,0,0,5.56
+212,Emil Park,Riverside Rovers,MID,2019-20,32,24,1632,3,13,16,11,22,13,40,0,1,0,0,7.42
+213,Seun Kim,Riverside Rovers,MID,2019-20,23,20,1700,0,14,16,12,21,48,45,9,1,0,0,6.82
+214,Takeshi Tanaka,Riverside Rovers,MID,2019-20,21,33,2838,8,6,16,15,12,49,31,9,2,0,0,6.84
+215,Rui Mensah,Riverside Rovers,MID,2019-20,29,19,1558,11,7,22,16,11,54,12,5,0,0,0,7.61
+216,Matteo Andersen,Riverside Rovers,MID,2019-20,24,9,657,2,7,15,5,15,54,15,7,0,0,0,5.85
+217,Jorge Osei,Riverside Rovers,MID,2019-20,19,36,3168,2,6,7,3,11,27,29,1,2,0,0,6.51
+218,Kenji Petrov,Riverside Rovers,MID,2019-20,21,28,2492,2,14,10,9,15,38,49,3,0,0,0,6.92
+219,Ade Walker,Riverside Rovers,MID,2019-20,25,9,756,7,15,21,13,19,14,17,2,2,0,0,7.65
+220,James Silva,Riverside Rovers,FWD,2019-20,20,31,2077,13,6,37,21,9,26,8,1,0,0,0,7.45
+221,Carlos Santos,Riverside Rovers,FWD,2019-20,24,17,1445,7,12,30,11,14,31,6,3,0,0,0,7.08
+222,Luca Nakamura,Riverside Rovers,FWD,2019-20,32,14,1260,11,12,19,11,21,63,14,3,1,0,0,7.76
+223,Ahmed Mueller,Riverside Rovers,FWD,2019-20,18,33,2673,29,6,48,45,15,72,12,5,2,0,0,9.07
+224,Yuki Okafor,Riverside Rovers,FWD,2019-20,33,7,588,0,8,15,7,12,44,12,4,1,0,0,6.22
+225,Kwame Ferreira,Riverside Rovers,FWD,2019-20,30,32,3008,3,9,11,3,17,65,6,7,2,0,0,6.7
+226,Ivan Rossi,Northgate City FC,GK,2019-20,20,34,2210,0,0,0,0,6,3,11,6,2,4,102,5.36
+227,Pedro Dubois,Northgate City FC,GK,2019-20,37,23,1863,0,0,0,0,0,1,7,6,2,2,94,5.34
+228,Oluwaseun Bianchi,Northgate City FC,GK,2019-20,19,32,1920,0,1,2,2,10,3,7,2,2,2,42,5.68
+229,Henri Johnson,Northgate City FC,DEF,2019-20,36,14,1162,5,6,9,6,9,38,34,9,1,0,0,6.52
+230,Marco Costa,Northgate City FC,DEF,2019-20,23,37,2775,4,2,11,10,7,26,66,3,2,0,0,6.16
+231,David Martinez,Northgate City FC,DEF,2019-20,34,27,1620,3,4,6,3,6,35,79,2,2,0,0,6.62
+232,Emil Park,Northgate City FC,DEF,2019-20,28,30,1890,0,3,3,1,5,10,64,1,0,0,0,5.87
+233,Seun Kim,Northgate City FC,DEF,2019-20,21,19,1444,4,6,9,8,7,30,58,9,0,0,0,6.59
+234,Takeshi Tanaka,Northgate City FC,DEF,2019-20,26,13,1196,0,1,9,7,10,8,63,0,1,0,0,5.71
+235,Rui Mensah,Northgate City FC,DEF,2019-20,27,10,660,2,3,4,4,5,11,37,9,1,0,0,6.03
+236,Matteo Andersen,Northgate City FC,DEF,2019-20,34,24,1656,0,2,2,2,7,5,28,4,2,0,0,6.36
+237,Jorge Osei,Northgate City FC,MID,2019-20,22,25,1825,3,2,6,5,6,57,18,7,0,0,0,6.68
+238,Kenji Petrov,Northgate City FC,MID,2019-20,22,25,2225,3,15,6,3,23,41,21,8,1,0,0,7.02
+239,Ade Walker,Northgate City FC,MID,2019-20,24,22,1892,8,4,12,12,5,19,49,7,2,0,0,7.31
+240,James Silva,Northgate City FC,MID,2019-20,26,11,858,13,13,15,15,19,19,51,2,1,0,0,7.91
+241,Carlos Santos,Northgate City FC,MID,2019-20,20,15,1155,9,10,20,13,18,61,39,7,2,0,0,6.99
+242,Luca Nakamura,Northgate City FC,MID,2019-20,36,30,2550,4,12,10,5,15,57,36,7,1,0,0,7.07
+243,Ahmed Mueller,Northgate City FC,MID,2019-20,37,31,2852,2,17,11,8,23,31,27,4,0,0,0,6.77
+244,Yuki Okafor,Northgate City FC,MID,2019-20,37,24,1776,8,16,11,11,22,40,24,3,1,0,0,8.19
+245,Kwame Ferreira,Northgate City FC,FWD,2019-20,37,30,2100,7,10,14,11,12,26,9,6,2,0,0,6.6
+246,Ivan Rossi,Northgate City FC,FWD,2019-20,34,20,1340,27,9,37,32,13,52,14,0,1,0,0,9.5
+247,Pedro Dubois,Northgate City FC,FWD,2019-20,24,29,1769,25,5,38,25,8,70,23,7,1,0,0,8.9
+248,Oluwaseun Bianchi,Northgate City FC,FWD,2019-20,23,12,1032,22,12,32,27,16,48,6,7,2,0,0,8.45
+249,Henri Johnson,Northgate City FC,FWD,2019-20,22,18,1080,10,13,24,19,16,17,18,7,2,0,0,7.55
+250,Marco Costa,Northgate City FC,FWD,2019-20,28,9,675,1,8,11,10,16,11,6,8,0,0,0,6.54
+251,David Martinez,Ironclad FC,GK,2020-21,24,9,576,0,0,2,2,3,4,7,8,0,3,112,5.76
+252,Emil Park,Ironclad FC,GK,2020-21,20,7,462,0,0,1,0,0,0,6,1,1,3,28,5.64
+253,Seun Kim,Ironclad FC,GK,2020-21,34,7,609,0,0,1,0,5,4,11,9,2,1,83,5.3
+254,Takeshi Tanaka,Ironclad FC,DEF,2020-21,32,16,1040,2,0,3,3,2,32,45,4,0,0,0,5.95
+255,Rui Mensah,Ironclad FC,DEF,2020-21,33,32,2688,1,7,7,7,7,34,58,8,2,0,0,6.24
+256,Matteo Andersen,Ironclad FC,DEF,2020-21,33,12,900,4,5,13,13,10,15,26,2,0,0,0,6.8
+257,Jorge Osei,Ironclad FC,DEF,2020-21,23,25,1875,3,1,9,5,7,9,75,6,2,0,0,6.25
+258,Kenji Petrov,Ironclad FC,DEF,2020-21,30,7,602,2,0,6,6,2,8,46,3,1,0,0,6.42
+259,Ade Walker,Ironclad FC,DEF,2020-21,33,12,1068,4,3,9,9,7,31,22,5,1,0,0,6.62
+260,James Silva,Ironclad FC,DEF,2020-21,32,35,3220,2,7,7,7,14,26,58,1,0,0,0,6.76
+261,Carlos Santos,Ironclad FC,DEF,2020-21,31,20,1560,5,2,9,9,11,21,53,5,1,0,0,6.27
+262,Luca Nakamura,Ironclad FC,MID,2020-21,26,12,780,1,11,3,2,18,35,42,5,2,0,0,6.09
+263,Ahmed Mueller,Ironclad FC,MID,2020-21,22,23,2162,2,3,20,9,9,20,58,1,0,0,0,6.35
+264,Yuki Okafor,Ironclad FC,MID,2020-21,24,18,1260,10,4,16,16,9,64,22,1,2,0,0,7.54
+265,Kwame Ferreira,Ironclad FC,MID,2020-21,25,37,3256,3,13,10,8,15,25,27,6,1,0,0,7.46
+266,Ivan Rossi,Ironclad FC,MID,2020-21,18,37,2331,7,7,20,12,16,61,46,3,0,0,0,7.02
+267,Pedro Dubois,Ironclad FC,MID,2020-21,31,32,2144,4,17,13,8,26,69,22,9,2,0,0,7.43
+268,Oluwaseun Bianchi,Ironclad FC,MID,2020-21,37,13,793,4,12,15,6,17,43,14,5,1,0,0,6.7
+269,Henri Johnson,Ironclad FC,MID,2020-21,31,29,2552,4,8,11,7,9,17,36,5,2,0,0,6.57
+270,Marco Costa,Ironclad FC,FWD,2020-21,19,12,756,22,13,39,39,16,11,6,1,0,0,0,9.22
+271,David Martinez,Ironclad FC,FWD,2020-21,35,14,1176,1,0,4,4,0,50,23,0,2,0,0,5.69
+272,Emil Park,Ironclad FC,FWD,2020-21,28,25,1700,13,9,27,19,17,15,10,6,2,0,0,7.08
+273,Seun Kim,Ironclad FC,FWD,2020-21,28,10,800,27,4,44,43,6,20,17,8,1,0,0,9.03
+274,Takeshi Tanaka,Ironclad FC,FWD,2020-21,21,24,2232,28,12,43,42,16,31,14,7,1,0,0,9.17
+275,Rui Mensah,Ironclad FC,FWD,2020-21,32,6,378,10,6,31,17,10,11,10,5,1,0,0,7.17
+276,Matteo Andersen,Blue Wave SC,GK,2020-21,30,30,2340,0,1,0,0,5,0,15,6,1,1,106,5.29
+277,Jorge Osei,Blue Wave SC,GK,2020-21,21,6,540,0,0,1,0,1,0,11,8,1,1,28,5.09
+278,Kenji Petrov,Blue Wave SC,GK,2020-21,36,25,2300,0,1,0,0,6,4,9,0,2,6,115,6.23
+279,Ade Walker,Blue Wave SC,DEF,2020-21,33,11,1001,1,7,2,1,7,32,53,8,0,0,0,6.39
+280,James Silva,Blue Wave SC,DEF,2020-21,30,20,1480,3,4,8,7,11,28,29,0,2,0,0,6.8
+281,Carlos Santos,Blue Wave SC,DEF,2020-21,32,22,1672,4,4,9,9,5,37,38,7,0,0,0,6.29
+282,Luca Nakamura,Blue Wave SC,DEF,2020-21,25,17,1139,4,3,9,8,3,23,76,2,2,0,0,6.42
+283,Ahmed Mueller,Blue Wave SC,DEF,2020-21,35,11,979,4,1,9,9,2,21,57,2,0,0,0,7.02
+284,Yuki Okafor,Blue Wave SC,DEF,2020-21,31,22,1430,2,0,8,4,3,35,60,0,1,0,0,6.25
+285,Kwame Ferreira,Blue Wave SC,DEF,2020-21,27,9,621,3,2,3,3,7,30,70,3,2,0,0,6.35
+286,Ivan Rossi,Blue Wave SC,DEF,2020-21,34,36,2448,3,1,4,4,5,35,41,2,0,0,0,6.05
+287,Pedro Dubois,Blue Wave SC,MID,2020-21,21,27,1728,0,10,7,1,14,18,32,6,1,0,0,6.16
+288,Oluwaseun Bianchi,Blue Wave SC,MID,2020-21,23,14,1036,0,12,13,4,18,32,25,7,0,0,0,5.89
+289,Henri Johnson,Blue Wave SC,MID,2020-21,27,13,923,6,7,15,6,10,58,48,8,1,0,0,6.76
+290,Marco Costa,Blue Wave SC,MID,2020-21,20,5,410,7,14,15,13,15,35,52,0,2,0,0,8.0
+291,David Martinez,Blue Wave SC,MID,2020-21,24,5,470,8,5,23,20,12,27,55,5,1,0,0,7.46
+292,Emil Park,Blue Wave SC,MID,2020-21,37,37,3145,0,7,10,5,8,42,57,7,1,0,0,6.63
+293,Seun Kim,Blue Wave SC,MID,2020-21,21,5,310,6,3,23,6,7,29,35,1,2,0,0,6.35
+294,Takeshi Tanaka,Blue Wave SC,MID,2020-21,18,9,603,0,13,19,15,18,25,59,0,0,0,0,6.78
+295,Rui Mensah,Blue Wave SC,FWD,2020-21,18,35,2975,15,13,44,41,18,28,24,7,2,0,0,8.1
+296,Matteo Andersen,Blue Wave SC,FWD,2020-21,20,14,1036,25,12,37,36,21,47,9,2,0,0,0,9.07
+297,Jorge Osei,Blue Wave SC,FWD,2020-21,21,6,444,11,7,18,14,8,57,18,5,2,0,0,7.07
+298,Kenji Petrov,Blue Wave SC,FWD,2020-21,28,16,1184,10,4,32,25,7,42,12,1,2,0,0,7.13
+299,Ade Walker,Blue Wave SC,FWD,2020-21,23,12,732,27,6,38,33,10,12,19,5,0,0,0,8.72
+300,James Silva,Blue Wave SC,FWD,2020-21,31,29,2088,3,4,27,8,10,75,22,1,2,0,0,6.35
+301,Carlos Santos,Red Storm United,GK,2020-21,31,37,2849,0,0,1,1,7,0,7,1,1,9,102,5.83
+302,Luca Nakamura,Red Storm United,GK,2020-21,30,7,644,0,1,0,0,8,0,8,2,1,3,30,5.15
+303,Ahmed Mueller,Red Storm United,GK,2020-21,23,16,1104,0,0,0,0,9,1,18,3,1,3,58,5.16
+304,Yuki Okafor,Red Storm United,DEF,2020-21,24,24,1440,1,1,3,3,4,25,65,9,0,0,0,6.16
+305,Kwame Ferreira,Red Storm United,DEF,2020-21,28,35,2485,0,6,0,0,14,30,65,4,2,0,0,5.78
+306,Ivan Rossi,Red Storm United,DEF,2020-21,20,30,2520,4,6,7,5,6,37,24,9,2,0,0,6.72
+307,Pedro Dubois,Red Storm United,DEF,2020-21,18,8,552,3,1,3,3,8,31,60,7,2,0,0,6.61
+308,Oluwaseun Bianchi,Red Storm United,DEF,2020-21,30,16,1008,4,2,13,4,8,34,44,4,1,0,0,6.04
+309,Henri Johnson,Red Storm United,DEF,2020-21,23,33,2442,0,7,1,1,16,35,36,4,2,0,0,6.36
+310,Marco Costa,Red Storm United,DEF,2020-21,24,6,444,2,2,5,2,9,6,50,3,1,0,0,5.93
+311,David Martinez,Red Storm United,DEF,2020-21,29,20,1760,5,2,11,10,6,5,78,9,1,0,0,6.16
+312,Emil Park,Red Storm United,MID,2020-21,34,35,2730,7,4,13,11,7,28,50,2,0,0,0,6.55
+313,Seun Kim,Red Storm United,MID,2020-21,36,16,1264,5,13,11,9,14,30,12,8,0,0,0,7.17
+314,Takeshi Tanaka,Red Storm United,MID,2020-21,19,14,966,0,12,8,8,14,33,15,8,0,0,0,6.51
+315,Rui Mensah,Red Storm United,MID,2020-21,21,8,640,4,13,14,5,20,38,32,1,2,0,0,6.84
+316,Matteo Andersen,Red Storm United,MID,2020-21,37,15,1350,3,9,18,4,17,65,56,1,1,0,0,6.99
+317,Jorge Osei,Red Storm United,MID,2020-21,36,16,1136,4,7,18,10,10,54,32,1,1,0,0,6.38
+318,Kenji Petrov,Red Storm United,MID,2020-21,35,20,1680,8,3,20,16,4,16,11,3,1,0,0,6.41
+319,Ade Walker,Red Storm United,MID,2020-21,31,31,2883,12,13,21,13,21,39,53,3,2,0,0,7.85
+320,James Silva,Red Storm United,FWD,2020-21,25,20,1400,25,0,40,29,6,48,10,3,0,0,0,8.09
+321,Carlos Santos,Red Storm United,FWD,2020-21,21,15,1215,9,5,17,13,14,58,9,7,0,0,0,7.1
+322,Luca Nakamura,Red Storm United,FWD,2020-21,25,13,1209,8,7,13,12,10,73,22,0,2,0,0,7.36
+323,Ahmed Mueller,Red Storm United,FWD,2020-21,26,22,2068,24,6,26,25,6,41,4,1,2,0,0,8.68
+324,Yuki Okafor,Red Storm United,FWD,2020-21,33,7,595,25,12,43,36,16,74,16,7,1,0,0,9.45
+325,Kwame Ferreira,Red Storm United,FWD,2020-21,34,6,366,2,7,23,20,14,20,6,6,1,0,0,6.15
+326,Ivan Rossi,Golden Eagles CF,GK,2020-21,26,34,2414,0,1,2,1,9,1,9,7,2,12,29,5.73
+327,Pedro Dubois,Golden Eagles CF,GK,2020-21,23,14,924,0,1,0,0,4,2,15,6,0,4,41,5.19
+328,Oluwaseun Bianchi,Golden Eagles CF,GK,2020-21,19,29,2349,0,0,2,2,3,4,5,7,0,10,118,6.29
+329,Henri Johnson,Golden Eagles CF,DEF,2020-21,27,33,2475,0,2,7,3,4,24,51,5,1,0,0,6.29
+330,Marco Costa,Golden Eagles CF,DEF,2020-21,35,32,1984,2,3,2,2,6,31,30,1,0,0,0,6.11
+331,David Martinez,Golden Eagles CF,DEF,2020-21,20,30,2640,2,4,11,11,4,6,70,0,1,0,0,6.11
+332,Emil Park,Golden Eagles CF,DEF,2020-21,23,13,949,5,2,7,5,7,11,27,4,1,0,0,6.5
+333,Seun Kim,Golden Eagles CF,DEF,2020-21,21,17,1190,4,2,5,4,8,19,64,2,2,0,0,6.28
+334,Takeshi Tanaka,Golden Eagles CF,DEF,2020-21,29,23,1886,0,2,1,1,9,7,61,9,0,0,0,6.31
+335,Rui Mensah,Golden Eagles CF,DEF,2020-21,18,7,658,5,5,13,7,5,8,24,8,0,0,0,6.86
+336,Matteo Andersen,Golden Eagles CF,DEF,2020-21,32,12,912,3,6,7,7,10,32,37,0,1,0,0,7.2
+337,Jorge Osei,Golden Eagles CF,MID,2020-21,26,9,720,11,17,13,11,25,38,24,1,1,0,0,8.31
+338,Kenji Petrov,Golden Eagles CF,MID,2020-21,33,13,1144,5,2,13,7,6,41,27,4,0,0,0,6.19
+339,Ade Walker,Golden Eagles CF,MID,2020-21,33,13,1170,5,2,9,6,8,62,50,5,0,0,0,6.66
+340,James Silva,Golden Eagles CF,MID,2020-21,37,32,2016,3,8,7,3,8,10,38,2,2,0,0,6.96
+341,Carlos Santos,Golden Eagles CF,MID,2020-21,23,6,426,10,3,13,11,10,45,52,8,1,0,0,6.54
+342,Luca Nakamura,Golden Eagles CF,MID,2020-21,24,24,1584,13,17,19,16,18,21,29,3,1,0,0,8.4
+343,Ahmed Mueller,Golden Eagles CF,MID,2020-21,22,31,2604,10,9,28,13,11,58,29,5,1,0,0,7.04
+344,Yuki Okafor,Golden Eagles CF,MID,2020-21,35,15,1170,13,10,27,20,14,68,55,1,1,0,0,7.85
+345,Kwame Ferreira,Golden Eagles CF,FWD,2020-21,24,8,584,7,13,23,21,22,14,5,7,0,0,0,7.11
+346,Ivan Rossi,Golden Eagles CF,FWD,2020-21,33,30,2670,2,2,29,4,2,60,23,0,2,0,0,5.97
+347,Pedro Dubois,Golden Eagles CF,FWD,2020-21,23,29,1798,24,12,46,34,15,51,22,9,2,0,0,9.31
+348,Oluwaseun Bianchi,Golden Eagles CF,FWD,2020-21,19,24,1584,19,5,33,24,14,62,17,4,0,0,0,7.76
+349,Henri Johnson,Golden Eagles CF,FWD,2020-21,31,22,1562,14,11,32,23,15,13,3,8,1,0,0,7.9
+350,Marco Costa,Golden Eagles CF,FWD,2020-21,24,26,2106,21,2,40,36,8,65,8,9,1,0,0,8.1
+351,David Martinez,Silver Fox Athletic,GK,2020-21,33,8,504,0,0,2,2,3,4,12,0,1,4,75,5.88
+352,Emil Park,Silver Fox Athletic,GK,2020-21,29,5,425,0,1,2,0,4,2,10,7,1,2,79,5.9
+353,Seun Kim,Silver Fox Athletic,GK,2020-21,18,28,2016,0,1,0,0,2,1,10,3,0,0,98,5.47
+354,Takeshi Tanaka,Silver Fox Athletic,DEF,2020-21,36,36,2628,3,7,5,3,10,8,76,0,2,0,0,6.48
+355,Rui Mensah,Silver Fox Athletic,DEF,2020-21,34,30,2640,4,4,5,5,13,26,75,1,1,0,0,6.28
+356,Matteo Andersen,Silver Fox Athletic,DEF,2020-21,37,35,3220,5,5,10,8,7,24,79,7,2,0,0,6.65
+357,Jorge Osei,Silver Fox Athletic,DEF,2020-21,21,6,486,4,6,13,11,8,34,49,8,0,0,0,7.11
+358,Kenji Petrov,Silver Fox Athletic,DEF,2020-21,31,35,2135,3,6,9,7,10,21,72,8,0,0,0,6.17
+359,Ade Walker,Silver Fox Athletic,DEF,2020-21,32,12,852,5,2,6,6,7,12,21,9,0,0,0,6.18
+360,James Silva,Silver Fox Athletic,DEF,2020-21,25,23,2024,2,6,8,5,7,36,37,9,2,0,0,6.63
+361,Carlos Santos,Silver Fox Athletic,DEF,2020-21,36,32,2176,3,4,9,6,10,27,56,5,0,0,0,6.87
+362,Luca Nakamura,Silver Fox Athletic,MID,2020-21,36,24,1584,10,4,18,17,9,10,26,3,1,0,0,7.12
+363,Ahmed Mueller,Silver Fox Athletic,MID,2020-21,28,16,1424,3,4,14,3,13,32,54,4,0,0,0,6.02
+364,Yuki Okafor,Silver Fox Athletic,MID,2020-21,36,14,1106,7,5,17,15,14,48,15,3,0,0,0,7.14
+365,Kwame Ferreira,Silver Fox Athletic,MID,2020-21,37,5,340,3,6,13,11,12,11,53,6,2,0,0,6.76
+366,Ivan Rossi,Silver Fox Athletic,MID,2020-21,22,22,1826,8,7,17,15,7,12,33,4,1,0,0,7.64
+367,Pedro Dubois,Silver Fox Athletic,MID,2020-21,25,5,415,7,12,22,12,17,59,33,1,1,0,0,7.46
+368,Oluwaseun Bianchi,Silver Fox Athletic,MID,2020-21,34,33,3036,1,4,19,6,12,11,29,3,0,0,0,5.72
+369,Henri Johnson,Silver Fox Athletic,MID,2020-21,25,5,405,6,15,14,7,19,19,20,0,1,0,0,7.6
+370,Marco Costa,Silver Fox Athletic,FWD,2020-21,30,34,2958,19,12,24,23,21,30,20,4,0,0,0,8.55
+371,David Martinez,Silver Fox Athletic,FWD,2020-21,36,36,2844,28,6,41,35,10,56,21,7,2,0,0,8.48
+372,Emil Park,Silver Fox Athletic,FWD,2020-21,20,9,684,18,11,26,18,14,56,20,3,2,0,0,8.58
+373,Seun Kim,Silver Fox Athletic,FWD,2020-21,28,21,1470,23,1,32,25,2,44,5,3,2,0,0,8.44
+374,Takeshi Tanaka,Silver Fox Athletic,FWD,2020-21,36,34,2448,26,12,54,42,21,25,10,9,1,0,0,9.03
+375,Rui Mensah,Silver Fox Athletic,FWD,2020-21,32,23,1656,10,0,20,20,0,26,17,5,1,0,0,7.28
+376,Matteo Andersen,Thunder Valley FC,GK,2020-21,28,25,2100,0,1,0,0,3,1,11,2,2,6,81,5.4
+377,Jorge Osei,Thunder Valley FC,GK,2020-21,32,28,2464,0,1,2,0,9,1,13,8,1,12,46,6.13
+378,Kenji Petrov,Thunder Valley FC,GK,2020-21,32,5,415,0,0,2,0,8,4,6,3,2,0,62,5.35
+379,Ade Walker,Thunder Valley FC,DEF,2020-21,36,35,2345,2,3,7,6,5,8,52,3,2,0,0,6.16
+380,James Silva,Thunder Valley FC,DEF,2020-21,36,18,1422,1,1,5,2,9,33,53,6,0,0,0,5.93
+381,Carlos Santos,Thunder Valley FC,DEF,2020-21,25,20,1400,3,4,7,5,8,18,37,3,1,0,0,6.39
+382,Luca Nakamura,Thunder Valley FC,DEF,2020-21,20,20,1740,4,5,11,9,13,16,23,5,2,0,0,6.15
+383,Ahmed Mueller,Thunder Valley FC,DEF,2020-21,19,24,1992,1,6,8,6,12,13,41,1,0,0,0,6.44
+384,Yuki Okafor,Thunder Valley FC,DEF,2020-21,21,36,2628,2,0,10,6,8,39,34,1,0,0,0,6.36
+385,Kwame Ferreira,Thunder Valley FC,DEF,2020-21,28,6,558,2,7,10,8,12,29,71,0,1,0,0,6.95
+386,Ivan Rossi,Thunder Valley FC,DEF,2020-21,29,28,1680,2,4,10,5,5,13,38,5,1,0,0,6.62
+387,Pedro Dubois,Thunder Valley FC,MID,2020-21,19,13,910,3,15,7,7,17,61,11,3,1,0,0,7.71
+388,Oluwaseun Bianchi,Thunder Valley FC,MID,2020-21,26,5,370,7,10,18,10,13,58,56,6,1,0,0,6.76
+389,Henri Johnson,Thunder Valley FC,MID,2020-21,23,29,2581,10,6,14,12,14,33,17,8,0,0,0,7.02
+390,Marco Costa,Thunder Valley FC,MID,2020-21,21,23,1403,4,10,10,9,11,37,39,0,1,0,0,7.24
+391,David Martinez,Thunder Valley FC,MID,2020-21,19,23,2162,1,6,18,4,13,20,36,8,1,0,0,6.27
+392,Emil Park,Thunder Valley FC,MID,2020-21,21,11,957,2,14,12,12,16,11,59,0,2,0,0,7.47
+393,Seun Kim,Thunder Valley FC,MID,2020-21,20,7,553,12,8,28,20,14,62,55,5,2,0,0,7.52
+394,Takeshi Tanaka,Thunder Valley FC,MID,2020-21,26,26,2236,12,11,15,12,11,28,39,5,2,0,0,7.66
+395,Rui Mensah,Thunder Valley FC,FWD,2020-21,19,27,1647,25,11,54,33,18,21,8,2,2,0,0,8.47
+396,Matteo Andersen,Thunder Valley FC,FWD,2020-21,22,29,2349,10,9,30,12,11,45,14,5,0,0,0,6.86
+397,Jorge Osei,Thunder Valley FC,FWD,2020-21,33,8,504,19,3,30,28,9,25,9,2,2,0,0,7.99
+398,Kenji Petrov,Thunder Valley FC,FWD,2020-21,29,35,2625,11,7,36,22,14,15,18,2,2,0,0,7.62
+399,Ade Walker,Thunder Valley FC,FWD,2020-21,19,24,1872,18,11,29,27,18,57,14,3,2,0,0,8.36
+400,James Silva,Thunder Valley FC,FWD,2020-21,30,7,525,17,8,22,20,11,27,8,5,2,0,0,7.7
+401,Carlos Santos,Coastline City SC,GK,2020-21,36,10,600,0,0,0,0,0,1,18,4,0,4,61,5.7
+402,Luca Nakamura,Coastline City SC,GK,2020-21,28,14,1204,0,1,0,0,3,0,11,6,2,7,95,5.24
+403,Ahmed Mueller,Coastline City SC,GK,2020-21,35,36,3384,0,1,2,0,9,0,16,8,1,8,44,5.43
+404,Yuki Okafor,Coastline City SC,DEF,2020-21,32,33,2475,3,3,5,5,6,31,69,6,2,0,0,6.19
+405,Kwame Ferreira,Coastline City SC,DEF,2020-21,30,22,1606,3,0,4,3,5,18,67,4,2,0,0,5.83
+406,Ivan Rossi,Coastline City SC,DEF,2020-21,22,17,1360,5,1,10,9,8,7,23,3,1,0,0,6.39
+407,Pedro Dubois,Coastline City SC,DEF,2020-21,25,15,1320,2,2,7,7,6,14,65,6,2,0,0,6.49
+408,Oluwaseun Bianchi,Coastline City SC,DEF,2020-21,26,5,380,5,3,11,7,8,12,51,1,1,0,0,6.16
+409,Henri Johnson,Coastline City SC,DEF,2020-21,26,32,2368,3,4,5,3,11,12,75,6,2,0,0,5.81
+410,Marco Costa,Coastline City SC,DEF,2020-21,27,19,1292,5,0,13,7,1,9,33,4,0,0,0,5.76
+411,David Martinez,Coastline City SC,DEF,2020-21,28,9,585,1,0,4,2,4,15,52,5,0,0,0,5.38
+412,Emil Park,Coastline City SC,MID,2020-21,22,21,1932,5,3,19,7,11,21,16,9,1,0,0,6.32
+413,Seun Kim,Coastline City SC,MID,2020-21,30,22,2068,10,3,19,12,11,34,58,6,1,0,0,6.85
+414,Takeshi Tanaka,Coastline City SC,MID,2020-21,26,19,1748,4,4,13,7,10,38,59,6,0,0,0,5.99
+415,Rui Mensah,Coastline City SC,MID,2020-21,37,18,1656,5,11,18,7,16,62,45,5,0,0,0,6.88
+416,Matteo Andersen,Coastline City SC,MID,2020-21,31,15,975,11,5,17,11,7,62,52,7,2,0,0,6.63
+417,Jorge Osei,Coastline City SC,MID,2020-21,37,33,2145,1,12,13,8,14,20,12,6,1,0,0,6.44
+418,Kenji Petrov,Coastline City SC,MID,2020-21,29,16,1344,7,11,19,14,18,64,20,8,2,0,0,7.07
+419,Ade Walker,Coastline City SC,MID,2020-21,31,29,2059,9,3,27,9,4,49,22,9,2,0,0,6.87
+420,James Silva,Coastline City SC,FWD,2020-21,22,37,2405,19,3,41,26,8,18,11,7,0,0,0,8.19
+421,Carlos Santos,Coastline City SC,FWD,2020-21,37,35,2275,2,10,9,9,17,42,5,5,0,0,0,6.45
+422,Luca Nakamura,Coastline City SC,FWD,2020-21,24,22,1320,9,3,30,26,9,20,23,9,2,0,0,6.91
+423,Ahmed Mueller,Coastline City SC,FWD,2020-21,20,8,552,27,7,38,30,8,68,9,5,2,0,0,8.86
+424,Yuki Okafor,Coastline City SC,FWD,2020-21,21,11,902,7,1,16,12,5,75,23,8,0,0,0,6.76
+425,Kwame Ferreira,Coastline City SC,FWD,2020-21,31,12,1020,18,12,24,19,19,68,16,0,2,0,0,7.99
+426,Ivan Rossi,Mountain Peak United,GK,2020-21,30,29,1972,0,0,0,0,2,2,19,6,1,13,36,6.16
+427,Pedro Dubois,Mountain Peak United,GK,2020-21,33,9,630,0,1,1,1,7,2,18,1,0,0,67,6.6
+428,Oluwaseun Bianchi,Mountain Peak United,GK,2020-21,33,8,648,0,1,1,1,1,2,13,0,1,1,48,6.19
+429,Henri Johnson,Mountain Peak United,DEF,2020-21,33,22,1386,1,0,8,3,3,14,65,8,1,0,0,5.91
+430,Marco Costa,Mountain Peak United,DEF,2020-21,33,22,1518,5,5,12,5,10,13,76,3,1,0,0,6.46
+431,David Martinez,Mountain Peak United,DEF,2020-21,22,16,1360,3,3,4,3,7,11,54,1,1,0,0,6.76
+432,Emil Park,Mountain Peak United,DEF,2020-21,23,5,405,3,3,7,3,6,18,67,2,1,0,0,6.73
+433,Seun Kim,Mountain Peak United,DEF,2020-21,22,9,756,4,4,13,5,9,15,20,6,2,0,0,6.62
+434,Takeshi Tanaka,Mountain Peak United,DEF,2020-21,25,27,2322,2,3,5,5,4,12,64,4,0,0,0,6.86
+435,Rui Mensah,Mountain Peak United,DEF,2020-21,30,31,2108,1,7,5,4,7,33,25,7,1,0,0,6.34
+436,Matteo Andersen,Mountain Peak United,DEF,2020-21,30,20,1620,1,1,9,3,3,22,32,5,2,0,0,5.45
+437,Jorge Osei,Mountain Peak United,MID,2020-21,26,10,900,4,7,7,5,13,64,32,1,0,0,0,6.71
+438,Kenji Petrov,Mountain Peak United,MID,2020-21,32,15,900,7,17,10,9,17,42,50,8,0,0,0,7.57
+439,Ade Walker,Mountain Peak United,MID,2020-21,36,5,405,1,11,16,4,13,24,23,1,0,0,0,6.76
+440,James Silva,Mountain Peak United,MID,2020-21,31,32,2752,7,7,25,15,14,37,20,5,2,0,0,7.19
+441,Carlos Santos,Mountain Peak United,MID,2020-21,36,10,920,2,15,11,6,24,17,58,0,0,0,0,6.96
+442,Luca Nakamura,Mountain Peak United,MID,2020-21,19,25,1725,2,4,20,5,4,23,57,9,2,0,0,6.08
+443,Ahmed Mueller,Mountain Peak United,MID,2020-21,33,6,498,8,7,22,10,7,36,42,9,0,0,0,6.67
+444,Yuki Okafor,Mountain Peak United,MID,2020-21,24,17,1428,8,12,10,9,13,38,32,1,2,0,0,7.26
+445,Kwame Ferreira,Mountain Peak United,FWD,2020-21,31,37,2553,19,2,46,28,9,66,9,4,0,0,0,7.48
+446,Ivan Rossi,Mountain Peak United,FWD,2020-21,21,14,1092,7,1,26,25,2,61,17,4,0,0,0,6.31
+447,Pedro Dubois,Mountain Peak United,FWD,2020-21,36,27,1647,8,10,24,22,15,49,19,0,0,0,0,7.33
+448,Oluwaseun Bianchi,Mountain Peak United,FWD,2020-21,33,5,350,17,2,32,18,4,14,24,8,1,0,0,7.71
+449,Henri Johnson,Mountain Peak United,FWD,2020-21,30,7,588,4,12,14,4,13,33,6,5,0,0,0,6.39
+450,Marco Costa,Mountain Peak United,FWD,2020-21,25,18,1188,14,4,17,14,11,69,3,9,1,0,0,7.87
+451,David Martinez,Riverside Rovers,GK,2020-21,24,8,744,0,1,0,0,1,3,5,6,0,0,80,5.22
+452,Emil Park,Riverside Rovers,GK,2020-21,19,22,1364,0,1,1,0,8,4,9,5,2,7,87,5.87
+453,Seun Kim,Riverside Rovers,GK,2020-21,24,6,384,0,1,2,1,7,3,10,9,2,0,23,5.59
+454,Takeshi Tanaka,Riverside Rovers,DEF,2020-21,23,32,2112,0,0,9,7,1,37,24,8,0,0,0,5.58
+455,Rui Mensah,Riverside Rovers,DEF,2020-21,20,14,924,3,0,5,5,2,22,53,6,2,0,0,6.24
+456,Matteo Andersen,Riverside Rovers,DEF,2020-21,25,24,1512,3,1,8,7,4,23,75,9,2,0,0,6.33
+457,Jorge Osei,Riverside Rovers,DEF,2020-21,36,22,2024,5,3,5,5,3,13,20,2,0,0,0,6.3
+458,Kenji Petrov,Riverside Rovers,DEF,2020-21,30,16,1056,4,7,11,9,8,25,78,8,2,0,0,6.53
+459,Ade Walker,Riverside Rovers,DEF,2020-21,30,5,440,1,0,4,3,8,14,70,0,2,0,0,6.19
+460,James Silva,Riverside Rovers,DEF,2020-21,21,9,783,4,7,10,6,13,11,47,3,1,0,0,6.58
+461,Carlos Santos,Riverside Rovers,DEF,2020-21,22,8,512,3,2,3,3,2,10,50,1,1,0,0,6.23
+462,Luca Nakamura,Riverside Rovers,MID,2020-21,37,13,936,10,7,23,17,14,66,54,9,2,0,0,6.79
+463,Ahmed Mueller,Riverside Rovers,MID,2020-21,23,34,2686,4,7,11,11,10,46,50,4,0,0,0,6.94
+464,Yuki Okafor,Riverside Rovers,MID,2020-21,37,18,1242,13,9,27,25,9,26,11,1,2,0,0,7.83
+465,Kwame Ferreira,Riverside Rovers,MID,2020-21,24,11,671,0,3,4,0,3,27,44,4,2,0,0,5.33
+466,Ivan Rossi,Riverside Rovers,MID,2020-21,24,21,1386,13,14,21,14,23,29,57,9,0,0,0,8.15
+467,Pedro Dubois,Riverside Rovers,MID,2020-21,29,27,2268,7,13,18,12,17,20,50,5,0,0,0,7.01
+468,Oluwaseun Bianchi,Riverside Rovers,MID,2020-21,24,25,2075,6,2,8,6,3,16,23,1,2,0,0,6.66
+469,Henri Johnson,Riverside Rovers,MID,2020-21,30,9,666,0,3,4,1,9,37,31,7,2,0,0,5.65
+470,Marco Costa,Riverside Rovers,FWD,2020-21,29,12,924,0,13,12,6,21,76,19,4,0,0,0,7.02
+471,David Martinez,Riverside Rovers,FWD,2020-21,18,20,1420,13,3,39,32,6,15,24,0,2,0,0,6.88
+472,Emil Park,Riverside Rovers,FWD,2020-21,19,20,1600,9,1,14,14,6,66,23,5,2,0,0,6.61
+473,Seun Kim,Riverside Rovers,FWD,2020-21,30,21,1302,5,10,31,7,17,16,4,3,0,0,0,6.67
+474,Takeshi Tanaka,Riverside Rovers,FWD,2020-21,18,31,2604,4,11,21,19,20,24,15,4,0,0,0,7.05
+475,Rui Mensah,Riverside Rovers,FWD,2020-21,34,24,1608,2,13,17,2,13,58,8,2,1,0,0,6.41
+476,Matteo Andersen,Northgate City FC,GK,2020-21,25,16,1248,0,1,2,0,4,1,17,7,2,8,72,5.35
+477,Jorge Osei,Northgate City FC,GK,2020-21,21,8,672,0,1,1,1,9,4,15,7,0,3,33,5.63
+478,Kenji Petrov,Northgate City FC,GK,2020-21,25,22,1408,0,1,0,0,3,1,5,3,1,2,69,5.57
+479,Ade Walker,Northgate City FC,DEF,2020-21,29,23,1909,1,5,9,4,7,11,39,5,2,0,0,5.85
+480,James Silva,Northgate City FC,DEF,2020-21,29,27,1917,3,5,6,3,8,18,58,4,0,0,0,5.95
+481,Carlos Santos,Northgate City FC,DEF,2020-21,35,33,2937,0,1,3,1,7,30,50,0,1,0,0,5.72
+482,Luca Nakamura,Northgate City FC,DEF,2020-21,36,14,1302,0,2,1,1,8,21,71,5,1,0,0,6.3
+483,Ahmed Mueller,Northgate City FC,DEF,2020-21,22,36,2844,5,7,10,6,15,9,46,1,1,0,0,7.25
+484,Yuki Okafor,Northgate City FC,DEF,2020-21,31,26,1560,1,5,9,1,12,34,75,1,0,0,0,6.25
+485,Kwame Ferreira,Northgate City FC,DEF,2020-21,31,33,2046,3,6,7,7,6,22,51,8,2,0,0,6.57
+486,Ivan Rossi,Northgate City FC,DEF,2020-21,34,17,1156,5,4,12,10,13,32,26,1,1,0,0,6.21
+487,Pedro Dubois,Northgate City FC,MID,2020-21,28,20,1400,8,5,17,15,12,13,41,0,0,0,0,7.5
+488,Oluwaseun Bianchi,Northgate City FC,MID,2020-21,35,21,1491,3,12,6,3,15,30,30,5,2,0,0,7.1
+489,Henri Johnson,Northgate City FC,MID,2020-21,19,27,2484,5,15,20,13,24,20,38,9,1,0,0,6.76
+490,Marco Costa,Northgate City FC,MID,2020-21,22,9,711,13,7,22,13,12,36,26,5,0,0,0,7.21
+491,David Martinez,Northgate City FC,MID,2020-21,23,6,366,12,7,15,13,7,18,53,6,2,0,0,7.32
+492,Emil Park,Northgate City FC,MID,2020-21,33,35,3080,0,13,16,0,13,48,37,0,0,0,0,6.71
+493,Seun Kim,Northgate City FC,MID,2020-21,37,14,1288,2,16,4,4,18,14,11,4,1,0,0,6.68
+494,Takeshi Tanaka,Northgate City FC,MID,2020-21,33,17,1190,10,14,13,12,17,14,49,3,1,0,0,8.34
+495,Rui Mensah,Northgate City FC,FWD,2020-21,24,31,2325,15,6,39,25,9,42,14,5,2,0,0,7.89
+496,Matteo Andersen,Northgate City FC,FWD,2020-21,26,19,1729,5,13,15,9,16,29,14,7,0,0,0,7.14
+497,Jorge Osei,Northgate City FC,FWD,2020-21,34,23,1932,5,10,13,11,17,31,17,2,1,0,0,7.12
+498,Kenji Petrov,Northgate City FC,FWD,2020-21,27,37,2220,28,11,44,30,16,35,16,8,0,0,0,9.5
+499,Ade Walker,Northgate City FC,FWD,2020-21,32,16,1168,12,11,39,27,14,77,11,0,1,0,0,7.97
+500,James Silva,Northgate City FC,FWD,2020-21,30,5,395,22,6,36,32,10,52,20,2,1,0,0,8.7
+501,Carlos Santos,Ironclad FC,GK,2021-22,37,9,846,0,0,2,2,6,4,11,8,0,4,95,6.13
+502,Luca Nakamura,Ironclad FC,GK,2021-22,34,30,2340,0,1,1,0,8,4,18,5,2,1,79,5.11
+503,Ahmed Mueller,Ironclad FC,GK,2021-22,26,35,2275,0,0,2,2,0,2,19,0,1,8,24,5.93
+504,Yuki Okafor,Ironclad FC,DEF,2021-22,30,28,1960,4,4,6,6,5,25,62,2,0,0,0,7.13
+505,Kwame Ferreira,Ironclad FC,DEF,2021-22,32,22,1716,5,3,7,6,7,16,28,4,1,0,0,7.06
+506,Ivan Rossi,Ironclad FC,DEF,2021-22,21,8,544,5,3,13,7,6,24,58,1,1,0,0,6.29
+507,Pedro Dubois,Ironclad FC,DEF,2021-22,18,31,2852,2,4,11,6,9,26,50,5,2,0,0,6.14
+508,Oluwaseun Bianchi,Ironclad FC,DEF,2021-22,19,34,3094,1,2,10,8,10,33,39,0,1,0,0,6.49
+509,Henri Johnson,Ironclad FC,DEF,2021-22,22,15,990,4,7,5,5,11,15,33,2,0,0,0,6.78
+510,Marco Costa,Ironclad FC,DEF,2021-22,20,32,2368,1,5,8,1,12,7,29,6,2,0,0,5.75
+511,David Martinez,Ironclad FC,DEF,2021-22,29,28,2044,5,7,13,6,11,18,79,7,2,0,0,6.41
+512,Emil Park,Ironclad FC,MID,2021-22,26,31,1922,4,5,20,8,5,15,33,4,2,0,0,6.69
+513,Seun Kim,Ironclad FC,MID,2021-22,32,34,2380,13,5,22,15,6,27,44,0,1,0,0,7.22
+514,Takeshi Tanaka,Ironclad FC,MID,2021-22,26,35,3045,0,10,4,3,11,24,22,2,0,0,0,6.7
+515,Rui Mensah,Ironclad FC,MID,2021-22,25,15,1170,8,2,26,18,8,46,55,4,1,0,0,6.41
+516,Matteo Andersen,Ironclad FC,MID,2021-22,34,15,1035,13,10,26,23,14,26,22,1,2,0,0,8.0
+517,Jorge Osei,Ironclad FC,MID,2021-22,24,23,2001,12,5,26,14,6,48,55,2,0,0,0,7.83
+518,Kenji Petrov,Ironclad FC,MID,2021-22,28,24,2088,5,9,17,12,17,13,25,0,0,0,0,7.3
+519,Ade Walker,Ironclad FC,MID,2021-22,28,22,1804,3,13,5,4,14,58,15,4,0,0,0,7.28
+520,James Silva,Ironclad FC,FWD,2021-22,23,16,1088,11,3,19,17,5,70,11,9,0,0,0,6.92
+521,Carlos Santos,Ironclad FC,FWD,2021-22,28,11,946,9,12,13,13,16,21,13,6,2,0,0,7.08
+522,Luca Nakamura,Ironclad FC,FWD,2021-22,22,12,1092,27,6,53,37,8,57,7,2,1,0,0,8.59
+523,Ahmed Mueller,Ironclad FC,FWD,2021-22,24,9,837,11,1,29,27,7,35,22,7,0,0,0,6.9
+524,Yuki Okafor,Ironclad FC,FWD,2021-22,36,31,2697,26,5,37,29,7,50,23,8,0,0,0,8.97
+525,Kwame Ferreira,Ironclad FC,FWD,2021-22,18,10,940,12,10,27,24,10,22,4,5,1,0,0,8.14
+526,Ivan Rossi,Blue Wave SC,GK,2021-22,30,25,1800,0,0,2,0,7,1,5,5,0,7,82,5.64
+527,Pedro Dubois,Blue Wave SC,GK,2021-22,33,14,980,0,1,0,0,8,0,12,8,0,0,63,5.57
+528,Oluwaseun Bianchi,Blue Wave SC,GK,2021-22,22,37,3071,0,1,0,0,3,0,6,6,2,12,53,6.05
+529,Henri Johnson,Blue Wave SC,DEF,2021-22,26,28,2520,1,6,10,8,14,25,79,8,2,0,0,6.53
+530,Marco Costa,Blue Wave SC,DEF,2021-22,34,18,1584,4,7,9,7,12,10,48,5,2,0,0,6.58
+531,David Martinez,Blue Wave SC,DEF,2021-22,35,28,2464,4,6,12,6,11,26,77,7,0,0,0,7.0
+532,Emil Park,Blue Wave SC,DEF,2021-22,33,11,1001,2,4,8,3,11,36,54,9,0,0,0,6.32
+533,Seun Kim,Blue Wave SC,DEF,2021-22,23,36,3132,4,3,10,5,3,21,32,8,2,0,0,5.76
+534,Takeshi Tanaka,Blue Wave SC,DEF,2021-22,28,8,680,1,2,9,3,7,31,72,2,2,0,0,5.9
+535,Rui Mensah,Blue Wave SC,DEF,2021-22,19,29,2175,0,6,6,2,10,18,47,2,0,0,0,6.54
+536,Matteo Andersen,Blue Wave SC,DEF,2021-22,23,12,780,0,7,4,0,10,19,39,2,2,0,0,6.19
+537,Jorge Osei,Blue Wave SC,MID,2021-22,19,32,2464,3,7,9,7,13,27,43,9,1,0,0,6.71
+538,Kenji Petrov,Blue Wave SC,MID,2021-22,37,26,2288,6,14,14,12,20,39,34,0,2,0,0,7.88
+539,Ade Walker,Blue Wave SC,MID,2021-22,33,26,1612,6,15,13,7,18,35,56,5,2,0,0,7.74
+540,James Silva,Blue Wave SC,MID,2021-22,36,22,1408,12,7,25,15,13,10,44,3,0,0,0,7.14
+541,Carlos Santos,Blue Wave SC,MID,2021-22,18,8,632,1,12,12,10,18,39,42,4,0,0,0,6.34
+542,Luca Nakamura,Blue Wave SC,MID,2021-22,23,14,938,1,6,12,1,6,26,18,1,1,0,0,6.13
+543,Ahmed Mueller,Blue Wave SC,MID,2021-22,31,25,2300,3,14,21,5,22,60,38,5,0,0,0,6.76
+544,Yuki Okafor,Blue Wave SC,MID,2021-22,19,15,1095,13,8,16,15,16,18,23,8,1,0,0,7.78
+545,Kwame Ferreira,Blue Wave SC,FWD,2021-22,33,8,624,16,0,33,25,2,35,18,2,0,0,0,7.91
+546,Ivan Rossi,Blue Wave SC,FWD,2021-22,24,25,2025,18,6,31,23,11,64,16,4,0,0,0,7.97
+547,Pedro Dubois,Blue Wave SC,FWD,2021-22,23,28,2324,29,0,52,35,3,40,20,6,2,0,0,8.72
+548,Oluwaseun Bianchi,Blue Wave SC,FWD,2021-22,30,7,567,1,13,27,20,19,36,13,7,1,0,0,6.48
+549,Henri Johnson,Blue Wave SC,FWD,2021-22,22,22,1628,15,3,43,26,7,69,10,6,0,0,0,7.72
+550,Marco Costa,Blue Wave SC,FWD,2021-22,22,9,675,20,9,34,27,17,11,3,0,2,0,0,8.25
+551,David Martinez,Red Storm United,GK,2021-22,31,12,1116,0,1,0,0,2,2,9,6,2,0,45,5.28
+552,Emil Park,Red Storm United,GK,2021-22,27,32,2144,0,0,0,0,6,0,17,4,0,9,119,6.29
+553,Seun Kim,Red Storm United,GK,2021-22,18,9,540,0,1,1,0,8,3,10,8,1,2,111,6.02
+554,Takeshi Tanaka,Red Storm United,DEF,2021-22,22,6,480,5,0,13,8,2,37,69,5,0,0,0,6.5
+555,Rui Mensah,Red Storm United,DEF,2021-22,27,22,1848,3,6,12,10,9,26,76,0,1,0,0,6.33
+556,Matteo Andersen,Red Storm United,DEF,2021-22,28,11,825,0,5,8,2,10,29,65,1,1,0,0,6.17
+557,Jorge Osei,Red Storm United,DEF,2021-22,19,31,2356,5,4,10,5,9,33,61,0,1,0,0,6.93
+558,Kenji Petrov,Red Storm United,DEF,2021-22,23,17,1343,2,1,5,5,6,23,44,3,1,0,0,6.17
+559,Ade Walker,Red Storm United,DEF,2021-22,27,12,1080,5,1,8,5,3,37,36,3,1,0,0,6.38
+560,James Silva,Red Storm United,DEF,2021-22,32,32,2016,0,0,9,7,5,23,59,2,1,0,0,5.44
+561,Carlos Santos,Red Storm United,DEF,2021-22,30,21,1302,1,3,4,2,7,27,37,7,0,0,0,5.57
+562,Luca Nakamura,Red Storm United,MID,2021-22,36,11,968,2,7,14,4,15,20,51,3,0,0,0,5.94
+563,Ahmed Mueller,Red Storm United,MID,2021-22,35,33,2937,4,3,13,10,12,67,26,7,2,0,0,5.88
+564,Yuki Okafor,Red Storm United,MID,2021-22,18,24,1608,13,4,32,14,7,16,43,3,0,0,0,6.94
+565,Kwame Ferreira,Red Storm United,MID,2021-22,20,27,2538,3,16,11,6,20,15,26,6,0,0,0,7.01
+566,Ivan Rossi,Red Storm United,MID,2021-22,19,9,738,13,11,17,16,12,41,59,5,0,0,0,7.72
+567,Pedro Dubois,Red Storm United,MID,2021-22,36,6,492,1,12,11,5,12,49,58,5,1,0,0,6.67
+568,Oluwaseun Bianchi,Red Storm United,MID,2021-22,22,12,720,5,5,8,5,9,23,31,0,2,0,0,7.09
+569,Henri Johnson,Red Storm United,MID,2021-22,35,37,2886,5,13,8,5,15,29,52,2,0,0,0,6.83
+570,Marco Costa,Red Storm United,FWD,2021-22,34,19,1615,10,1,17,12,4,60,16,9,2,0,0,6.44
+571,David Martinez,Red Storm United,FWD,2021-22,24,22,1738,5,0,20,11,1,20,20,2,1,0,0,5.99
+572,Emil Park,Red Storm United,FWD,2021-22,37,10,660,27,7,30,28,12,49,11,6,0,0,0,9.0
+573,Seun Kim,Red Storm United,FWD,2021-22,37,7,497,21,12,29,24,15,23,24,4,2,0,0,8.98
+574,Takeshi Tanaka,Red Storm United,FWD,2021-22,23,36,2700,19,9,39,32,18,43,15,3,1,0,0,8.19
+575,Rui Mensah,Red Storm United,FWD,2021-22,33,26,1742,16,11,21,19,14,37,3,8,2,0,0,7.94
+576,Matteo Andersen,Golden Eagles CF,GK,2021-22,18,32,2912,0,0,1,1,7,3,16,4,1,2,87,5.78
+577,Jorge Osei,Golden Eagles CF,GK,2021-22,23,16,1104,0,0,1,0,6,3,6,1,1,3,114,5.57
+578,Kenji Petrov,Golden Eagles CF,GK,2021-22,31,32,2272,0,1,0,0,4,1,9,4,2,16,31,6.44
+579,Ade Walker,Golden Eagles CF,DEF,2021-22,32,28,2408,0,3,5,0,10,9,32,6,0,0,0,5.85
+580,James Silva,Golden Eagles CF,DEF,2021-22,34,35,3150,1,6,4,3,10,27,44,9,0,0,0,5.83
+581,Carlos Santos,Golden Eagles CF,DEF,2021-22,34,18,1350,3,3,8,8,7,10,23,1,1,0,0,6.25
+582,Luca Nakamura,Golden Eagles CF,DEF,2021-22,23,29,1827,1,3,6,2,8,37,72,0,1,0,0,5.61
+583,Ahmed Mueller,Golden Eagles CF,DEF,2021-22,31,10,760,0,5,7,3,6,34,54,1,0,0,0,5.94
+584,Yuki Okafor,Golden Eagles CF,DEF,2021-22,22,24,1560,3,2,9,6,4,36,50,5,1,0,0,6.28
+585,Kwame Ferreira,Golden Eagles CF,DEF,2021-22,27,15,1050,5,5,5,5,5,29,77,7,1,0,0,6.81
+586,Ivan Rossi,Golden Eagles CF,DEF,2021-22,36,15,1065,3,6,11,7,9,26,66,7,0,0,0,6.6
+587,Pedro Dubois,Golden Eagles CF,MID,2021-22,23,16,1440,13,7,24,24,12,52,34,7,1,0,0,7.54
+588,Oluwaseun Bianchi,Golden Eagles CF,MID,2021-22,35,18,1692,8,4,10,9,9,58,35,7,1,0,0,7.14
+589,Henri Johnson,Golden Eagles CF,MID,2021-22,36,30,2430,0,8,4,2,11,18,35,0,0,0,0,6.7
+590,Marco Costa,Golden Eagles CF,MID,2021-22,28,30,2520,2,14,15,9,21,10,29,0,0,0,0,6.96
+591,David Martinez,Golden Eagles CF,MID,2021-22,25,19,1292,0,2,3,1,2,57,44,4,2,0,0,5.74
+592,Emil Park,Golden Eagles CF,MID,2021-22,22,15,1125,6,9,20,6,13,13,39,9,0,0,0,6.72
+593,Seun Kim,Golden Eagles CF,MID,2021-22,19,12,804,9,10,22,21,13,41,24,3,0,0,0,7.28
+594,Takeshi Tanaka,Golden Eagles CF,MID,2021-22,30,28,1680,13,8,22,17,16,48,36,9,0,0,0,8.13
+595,Rui Mensah,Golden Eagles CF,FWD,2021-22,32,13,910,21,11,26,24,16,34,14,9,2,0,0,8.97
+596,Matteo Andersen,Golden Eagles CF,FWD,2021-22,31,11,935,23,1,49,36,5,34,18,9,2,0,0,7.62
+597,Jorge Osei,Golden Eagles CF,FWD,2021-22,34,35,2240,5,0,33,7,4,26,13,7,2,0,0,6.25
+598,Kenji Petrov,Golden Eagles CF,FWD,2021-22,29,34,2346,29,7,57,54,13,16,4,1,2,0,0,8.94
+599,Ade Walker,Golden Eagles CF,FWD,2021-22,20,7,616,25,1,29,28,10,12,16,7,0,0,0,8.02
+600,James Silva,Golden Eagles CF,FWD,2021-22,21,22,1650,22,2,45,30,2,26,18,4,0,0,0,8.2
+601,Carlos Santos,Silver Fox Athletic,GK,2021-22,20,7,462,0,0,2,0,6,0,10,4,0,0,117,5.04
+602,Luca Nakamura,Silver Fox Athletic,GK,2021-22,32,16,1232,0,0,2,1,8,2,8,1,2,7,91,5.7
+603,Ahmed Mueller,Silver Fox Athletic,GK,2021-22,29,29,2726,0,1,0,0,8,3,12,0,1,5,97,5.65
+604,Yuki Okafor,Silver Fox Athletic,DEF,2021-22,21,31,2790,2,4,8,7,13,27,59,8,0,0,0,6.38
+605,Kwame Ferreira,Silver Fox Athletic,DEF,2021-22,27,22,1870,2,2,6,2,11,15,71,1,1,0,0,5.89
+606,Ivan Rossi,Silver Fox Athletic,DEF,2021-22,34,14,910,0,1,4,4,7,5,51,0,2,0,0,6.02
+607,Pedro Dubois,Silver Fox Athletic,DEF,2021-22,18,21,1953,5,2,10,10,6,30,77,2,1,0,0,6.86
+608,Oluwaseun Bianchi,Silver Fox Athletic,DEF,2021-22,34,28,2156,1,3,5,4,3,24,68,7,1,0,0,6.13
+609,Henri Johnson,Silver Fox Athletic,DEF,2021-22,37,9,792,4,6,4,4,6,35,32,5,1,0,0,7.08
+610,Marco Costa,Silver Fox Athletic,DEF,2021-22,35,14,1120,4,7,4,4,8,17,78,6,2,0,0,7.19
+611,David Martinez,Silver Fox Athletic,DEF,2021-22,20,35,2275,5,7,14,14,16,25,32,6,0,0,0,6.49
+612,Emil Park,Silver Fox Athletic,MID,2021-22,19,11,682,10,11,21,14,13,34,50,4,0,0,0,7.62
+613,Seun Kim,Silver Fox Athletic,MID,2021-22,29,14,1176,11,9,17,17,12,21,45,3,2,0,0,7.25
+614,Takeshi Tanaka,Silver Fox Athletic,MID,2021-22,18,17,1343,2,7,17,12,7,10,56,5,2,0,0,6.19
+615,Rui Mensah,Silver Fox Athletic,MID,2021-22,33,30,2640,3,2,13,13,10,36,40,7,0,0,0,6.28
+616,Matteo Andersen,Silver Fox Athletic,MID,2021-22,35,24,2112,12,10,14,12,18,50,40,2,2,0,0,7.29
+617,Jorge Osei,Silver Fox Athletic,MID,2021-22,29,5,425,5,15,11,5,21,66,56,9,0,0,0,7.14
+618,Kenji Petrov,Silver Fox Athletic,MID,2021-22,19,5,445,9,3,15,9,10,67,10,5,1,0,0,6.41
+619,Ade Walker,Silver Fox Athletic,MID,2021-22,34,5,320,9,11,12,11,14,42,21,9,2,0,0,7.75
+620,James Silva,Silver Fox Athletic,FWD,2021-22,33,29,2262,13,11,30,14,17,79,6,6,1,0,0,8.02
+621,Carlos Santos,Silver Fox Athletic,FWD,2021-22,19,12,1008,25,13,41,33,19,58,9,7,2,0,0,9.11
+622,Luca Nakamura,Silver Fox Athletic,FWD,2021-22,22,35,2905,26,13,55,29,16,51,19,4,2,0,0,8.74
+623,Ahmed Mueller,Silver Fox Athletic,FWD,2021-22,29,28,2100,1,3,27,14,3,38,4,1,2,0,0,5.62
+624,Yuki Okafor,Silver Fox Athletic,FWD,2021-22,29,19,1615,21,2,43,21,11,25,22,5,2,0,0,7.56
+625,Kwame Ferreira,Silver Fox Athletic,FWD,2021-22,24,12,912,3,11,19,8,16,45,23,1,2,0,0,6.75
+626,Ivan Rossi,Thunder Valley FC,GK,2021-22,32,22,1474,0,0,2,0,3,2,8,5,1,2,85,5.18
+627,Pedro Dubois,Thunder Valley FC,GK,2021-22,26,29,2059,0,0,2,2,5,3,16,0,1,11,97,6.38
+628,Oluwaseun Bianchi,Thunder Valley FC,GK,2021-22,23,34,2720,0,1,2,2,2,1,12,4,1,6,107,5.79
+629,Henri Johnson,Thunder Valley FC,DEF,2021-22,32,29,1943,0,5,2,2,10,32,76,9,0,0,0,5.81
+630,Marco Costa,Thunder Valley FC,DEF,2021-22,31,21,1470,1,5,2,1,7,26,50,3,1,0,0,6.05
+631,David Martinez,Thunder Valley FC,DEF,2021-22,28,11,869,0,1,2,2,4,6,37,8,2,0,0,6.23
+632,Emil Park,Thunder Valley FC,DEF,2021-22,20,17,1462,3,0,8,5,2,34,68,3,0,0,0,5.98
+633,Seun Kim,Thunder Valley FC,DEF,2021-22,27,6,414,1,1,9,6,2,36,60,9,1,0,0,5.78
+634,Takeshi Tanaka,Thunder Valley FC,DEF,2021-22,27,21,1449,3,5,3,3,10,34,27,9,1,0,0,6.64
+635,Rui Mensah,Thunder Valley FC,DEF,2021-22,31,15,1170,1,2,7,5,5,28,28,0,2,0,0,5.96
+636,Matteo Andersen,Thunder Valley FC,DEF,2021-22,34,26,1924,2,2,4,2,10,28,78,1,1,0,0,6.31
+637,Jorge Osei,Thunder Valley FC,MID,2021-22,21,37,3478,12,5,15,13,5,65,55,6,0,0,0,7.45
+638,Kenji Petrov,Thunder Valley FC,MID,2021-22,18,8,656,5,10,23,20,14,48,21,9,1,0,0,7.07
+639,Ade Walker,Thunder Valley FC,MID,2021-22,27,33,2871,9,5,18,11,8,46,53,7,0,0,0,6.8
+640,James Silva,Thunder Valley FC,MID,2021-22,20,30,2340,13,10,30,30,17,22,52,1,0,0,0,7.89
+641,Carlos Santos,Thunder Valley FC,MID,2021-22,23,37,2812,0,9,5,4,13,15,52,0,2,0,0,6.6
+642,Luca Nakamura,Thunder Valley FC,MID,2021-22,27,30,2280,0,4,10,4,12,57,29,1,1,0,0,5.77
+643,Ahmed Mueller,Thunder Valley FC,MID,2021-22,33,29,2320,10,10,27,12,15,68,53,1,0,0,0,7.39
+644,Yuki Okafor,Thunder Valley FC,MID,2021-22,24,33,2310,8,14,27,9,19,54,22,4,2,0,0,7.62
+645,Kwame Ferreira,Thunder Valley FC,FWD,2021-22,33,18,1530,0,7,3,2,15,77,18,2,2,0,0,6.47
+646,Ivan Rossi,Thunder Valley FC,FWD,2021-22,29,26,1846,18,9,44,31,10,45,13,0,0,0,0,8.64
+647,Pedro Dubois,Thunder Valley FC,FWD,2021-22,31,28,1792,3,5,30,3,9,23,3,9,2,0,0,5.79
+648,Oluwaseun Bianchi,Thunder Valley FC,FWD,2021-22,27,22,1518,21,13,28,26,17,18,7,2,0,0,0,9.09
+649,Henri Johnson,Thunder Valley FC,FWD,2021-22,19,12,720,14,9,25,22,17,20,7,7,1,0,0,7.31
+650,Marco Costa,Thunder Valley FC,FWD,2021-22,32,17,1428,19,13,48,27,21,10,7,8,0,0,0,8.59
+651,David Martinez,Coastline City SC,GK,2021-22,21,37,3182,0,0,0,0,5,2,14,3,0,17,77,5.75
+652,Emil Park,Coastline City SC,GK,2021-22,35,28,2016,0,0,2,2,0,0,17,8,1,4,102,5.62
+653,Seun Kim,Coastline City SC,GK,2021-22,31,27,2241,0,1,2,2,6,3,17,7,0,13,87,6.88
+654,Takeshi Tanaka,Coastline City SC,DEF,2021-22,28,7,574,1,7,9,5,16,35,34,7,0,0,0,6.0
+655,Rui Mensah,Coastline City SC,DEF,2021-22,22,9,846,5,3,7,5,3,37,30,3,1,0,0,6.93
+656,Matteo Andersen,Coastline City SC,DEF,2021-22,30,26,2444,2,5,5,3,14,31,61,8,2,0,0,5.81
+657,Jorge Osei,Coastline City SC,DEF,2021-22,22,8,752,0,6,4,3,13,7,38,4,2,0,0,5.96
+658,Kenji Petrov,Coastline City SC,DEF,2021-22,24,24,1536,2,4,7,5,6,27,46,2,1,0,0,6.46
+659,Ade Walker,Coastline City SC,DEF,2021-22,36,35,3185,3,0,9,8,8,14,57,3,1,0,0,6.0
+660,James Silva,Coastline City SC,DEF,2021-22,21,17,1173,0,3,6,1,10,23,39,6,2,0,0,5.49
+661,Carlos Santos,Coastline City SC,DEF,2021-22,19,7,588,1,1,10,3,2,24,33,0,0,0,0,5.41
+662,Luca Nakamura,Coastline City SC,MID,2021-22,27,16,1104,7,17,21,10,24,21,55,3,2,0,0,7.86
+663,Ahmed Mueller,Coastline City SC,MID,2021-22,27,23,2024,6,4,20,12,11,49,16,8,1,0,0,6.12
+664,Yuki Okafor,Coastline City SC,MID,2021-22,35,37,2960,6,4,13,13,8,59,44,4,0,0,0,6.95
+665,Kwame Ferreira,Coastline City SC,MID,2021-22,19,8,592,8,14,26,24,20,33,27,2,2,0,0,7.41
+666,Ivan Rossi,Coastline City SC,MID,2021-22,21,37,2257,11,6,13,11,6,50,43,1,1,0,0,7.01
+667,Pedro Dubois,Coastline City SC,MID,2021-22,20,31,2790,10,17,28,24,20,30,12,7,2,0,0,7.71
+668,Oluwaseun Bianchi,Coastline City SC,MID,2021-22,37,5,345,3,9,12,10,9,56,52,4,2,0,0,6.96
+669,Henri Johnson,Coastline City SC,MID,2021-22,22,31,2759,6,8,14,9,9,35,43,4,0,0,0,7.24
+670,Marco Costa,Coastline City SC,FWD,2021-22,28,20,1880,29,6,52,37,8,71,9,1,2,0,0,8.64
+671,David Martinez,Coastline City SC,FWD,2021-22,23,21,1554,13,2,17,16,6,42,9,2,0,0,0,7.79
+672,Emil Park,Coastline City SC,FWD,2021-22,30,19,1501,1,2,26,16,2,39,9,5,1,0,0,5.87
+673,Seun Kim,Coastline City SC,FWD,2021-22,20,11,869,22,3,51,24,10,64,16,3,2,0,0,7.77
+674,Takeshi Tanaka,Coastline City SC,FWD,2021-22,34,6,486,23,5,29,29,6,38,9,3,1,0,0,8.96
+675,Rui Mensah,Coastline City SC,FWD,2021-22,22,17,1462,22,9,29,23,11,34,3,6,1,0,0,8.28
+676,Matteo Andersen,Mountain Peak United,GK,2021-22,22,20,1740,0,0,0,0,5,0,13,4,1,2,23,5.86
+677,Jorge Osei,Mountain Peak United,GK,2021-22,30,35,2205,0,1,0,0,2,2,8,4,2,0,56,5.5
+678,Kenji Petrov,Mountain Peak United,GK,2021-22,36,20,1480,0,1,2,0,6,0,11,8,1,10,113,6.23
+679,Ade Walker,Mountain Peak United,DEF,2021-22,34,21,1365,2,5,4,2,10,28,52,7,0,0,0,6.46
+680,James Silva,Mountain Peak United,DEF,2021-22,18,26,1794,2,5,2,2,14,20,21,0,2,0,0,6.4
+681,Carlos Santos,Mountain Peak United,DEF,2021-22,19,20,1240,4,2,11,6,8,24,59,9,2,0,0,6.24
+682,Luca Nakamura,Mountain Peak United,DEF,2021-22,36,18,1674,5,6,6,6,9,29,39,1,0,0,0,6.94
+683,Ahmed Mueller,Mountain Peak United,DEF,2021-22,31,31,1860,4,2,13,7,4,22,77,1,2,0,0,6.29
+684,Yuki Okafor,Mountain Peak United,DEF,2021-22,21,27,2403,3,6,8,4,10,10,46,0,0,0,0,6.84
+685,Kwame Ferreira,Mountain Peak United,DEF,2021-22,27,36,3060,0,3,7,3,7,21,55,5,0,0,0,6.1
+686,Ivan Rossi,Mountain Peak United,DEF,2021-22,28,33,2541,2,7,8,2,9,6,45,2,2,0,0,6.27
+687,Pedro Dubois,Mountain Peak United,MID,2021-22,28,34,2686,5,13,15,12,16,38,23,7,2,0,0,6.99
+688,Oluwaseun Bianchi,Mountain Peak United,MID,2021-22,26,32,2112,13,8,30,29,9,57,49,5,0,0,0,8.0
+689,Henri Johnson,Mountain Peak United,MID,2021-22,23,25,2125,2,7,16,3,11,63,51,0,2,0,0,5.9
+690,Marco Costa,Mountain Peak United,MID,2021-22,20,5,450,6,8,19,12,10,51,23,3,0,0,0,6.58
+691,David Martinez,Mountain Peak United,MID,2021-22,24,8,656,5,4,20,8,7,12,48,7,0,0,0,6.06
+692,Emil Park,Mountain Peak United,MID,2021-22,34,33,2079,1,17,12,8,23,51,33,0,1,0,0,7.08
+693,Seun Kim,Mountain Peak United,MID,2021-22,23,9,819,3,6,21,15,15,61,48,1,1,0,0,6.31
+694,Takeshi Tanaka,Mountain Peak United,MID,2021-22,23,11,825,12,12,20,14,17,41,31,6,0,0,0,7.82
+695,Rui Mensah,Mountain Peak United,FWD,2021-22,29,14,1106,23,3,41,30,11,32,17,3,1,0,0,8.39
+696,Matteo Andersen,Mountain Peak United,FWD,2021-22,20,30,2430,10,4,31,28,12,18,21,1,0,0,0,7.13
+697,Jorge Osei,Mountain Peak United,FWD,2021-22,31,26,2444,9,3,38,22,8,43,8,2,2,0,0,6.75
+698,Kenji Petrov,Mountain Peak United,FWD,2021-22,31,6,402,29,7,48,44,14,59,22,4,1,0,0,8.92
+699,Ade Walker,Mountain Peak United,FWD,2021-22,23,34,3060,4,9,33,30,14,33,15,1,0,0,0,6.68
+700,James Silva,Mountain Peak United,FWD,2021-22,31,31,1984,6,6,9,9,14,73,10,3,0,0,0,7.22
+701,Carlos Santos,Riverside Rovers,GK,2021-22,34,8,664,0,1,2,1,2,2,6,7,0,4,58,6.26
+702,Luca Nakamura,Riverside Rovers,GK,2021-22,31,20,1320,0,0,2,2,3,3,8,2,1,5,52,6.26
+703,Ahmed Mueller,Riverside Rovers,GK,2021-22,33,26,2262,0,0,0,0,7,3,12,3,2,9,35,5.83
+704,Yuki Okafor,Riverside Rovers,DEF,2021-22,32,22,1452,2,6,5,4,12,13,23,9,2,0,0,6.59
+705,Kwame Ferreira,Riverside Rovers,DEF,2021-22,28,6,480,2,6,10,8,11,28,59,2,0,0,0,6.3
+706,Ivan Rossi,Riverside Rovers,DEF,2021-22,32,33,3102,3,1,12,11,6,20,34,2,0,0,0,6.56
+707,Pedro Dubois,Riverside Rovers,DEF,2021-22,25,12,780,4,1,4,4,3,24,49,2,0,0,0,6.02
+708,Oluwaseun Bianchi,Riverside Rovers,DEF,2021-22,18,17,1020,1,4,1,1,9,26,57,6,2,0,0,6.08
+709,Henri Johnson,Riverside Rovers,DEF,2021-22,19,27,2430,5,4,9,7,9,7,44,2,2,0,0,7.01
+710,Marco Costa,Riverside Rovers,DEF,2021-22,34,8,728,4,1,10,5,3,32,38,3,0,0,0,6.36
+711,David Martinez,Riverside Rovers,DEF,2021-22,24,23,1518,1,7,3,1,10,20,26,8,0,0,0,6.0
+712,Emil Park,Riverside Rovers,MID,2021-22,32,26,2080,4,5,22,12,14,67,18,3,1,0,0,6.15
+713,Seun Kim,Riverside Rovers,MID,2021-22,30,22,1826,3,14,16,3,20,66,18,4,1,0,0,6.89
+714,Takeshi Tanaka,Riverside Rovers,MID,2021-22,33,32,2688,11,8,16,14,8,46,21,2,2,0,0,7.17
+715,Rui Mensah,Riverside Rovers,MID,2021-22,32,7,490,11,10,27,21,19,39,34,4,1,0,0,7.94
+716,Matteo Andersen,Riverside Rovers,MID,2021-22,36,22,1980,6,12,13,10,19,29,41,4,1,0,0,7.33
+717,Jorge Osei,Riverside Rovers,MID,2021-22,24,22,1320,1,2,18,1,9,14,52,5,0,0,0,5.46
+718,Kenji Petrov,Riverside Rovers,MID,2021-22,30,17,1547,10,5,22,19,6,67,54,2,0,0,0,7.14
+719,Ade Walker,Riverside Rovers,MID,2021-22,21,23,1679,5,5,9,6,13,45,59,8,2,0,0,7.01
+720,James Silva,Riverside Rovers,FWD,2021-22,21,31,2077,26,5,41,27,10,63,14,8,1,0,0,8.65
+721,Carlos Santos,Riverside Rovers,FWD,2021-22,23,28,2212,29,8,45,31,15,49,3,1,2,0,0,8.81
+722,Luca Nakamura,Riverside Rovers,FWD,2021-22,24,11,1012,8,7,37,18,10,12,16,2,0,0,0,6.8
+723,Ahmed Mueller,Riverside Rovers,FWD,2021-22,28,18,1296,6,6,34,34,12,51,13,2,1,0,0,6.59
+724,Yuki Okafor,Riverside Rovers,FWD,2021-22,27,8,576,27,10,52,42,14,38,6,4,1,0,0,9.5
+725,Kwame Ferreira,Riverside Rovers,FWD,2021-22,19,7,518,15,10,44,43,18,62,11,2,2,0,0,8.3
+726,Ivan Rossi,Northgate City FC,GK,2021-22,26,32,2304,0,0,1,0,6,4,6,9,1,0,75,5.69
+727,Pedro Dubois,Northgate City FC,GK,2021-22,37,33,2244,0,1,2,1,8,3,9,8,0,0,107,5.43
+728,Oluwaseun Bianchi,Northgate City FC,GK,2021-22,27,32,2240,0,1,1,0,7,4,15,7,2,5,37,6.0
+729,Henri Johnson,Northgate City FC,DEF,2021-22,19,8,480,5,1,11,11,1,31,68,4,1,0,0,6.69
+730,Marco Costa,Northgate City FC,DEF,2021-22,29,15,945,2,2,7,5,2,24,67,6,1,0,0,5.87
+731,David Martinez,Northgate City FC,DEF,2021-22,33,35,2695,5,1,7,6,3,11,75,3,1,0,0,6.89
+732,Emil Park,Northgate City FC,DEF,2021-22,37,21,1638,0,1,0,0,4,12,71,8,2,0,0,5.51
+733,Seun Kim,Northgate City FC,DEF,2021-22,30,23,1633,4,7,6,6,7,16,39,8,2,0,0,7.09
+734,Takeshi Tanaka,Northgate City FC,DEF,2021-22,27,30,2070,0,5,1,0,11,39,25,2,0,0,0,5.35
+735,Rui Mensah,Northgate City FC,DEF,2021-22,19,18,1278,3,4,6,4,13,7,47,9,1,0,0,5.9
+736,Matteo Andersen,Northgate City FC,DEF,2021-22,36,33,2442,3,5,6,4,7,22,64,7,0,0,0,6.29
+737,Jorge Osei,Northgate City FC,MID,2021-22,20,26,2210,11,12,25,11,19,66,51,1,2,0,0,7.28
+738,Kenji Petrov,Northgate City FC,MID,2021-22,18,24,1440,0,10,19,13,15,36,36,3,1,0,0,6.64
+739,Ade Walker,Northgate City FC,MID,2021-22,18,16,976,1,15,8,5,19,53,11,8,0,0,0,6.91
+740,James Silva,Northgate City FC,MID,2021-22,29,11,913,10,3,14,14,4,17,43,9,2,0,0,6.87
+741,Carlos Santos,Northgate City FC,MID,2021-22,26,29,2494,2,10,21,5,18,51,22,1,0,0,0,6.18
+742,Luca Nakamura,Northgate City FC,MID,2021-22,27,26,1560,13,2,21,13,9,19,56,0,2,0,0,6.98
+743,Ahmed Mueller,Northgate City FC,MID,2021-22,27,9,837,10,16,17,13,18,44,30,3,1,0,0,7.69
+744,Yuki Okafor,Northgate City FC,MID,2021-22,18,7,448,6,3,14,6,7,62,38,1,1,0,0,6.45
+745,Kwame Ferreira,Northgate City FC,FWD,2021-22,27,35,2240,1,0,12,3,9,16,6,8,0,0,0,5.51
+746,Ivan Rossi,Northgate City FC,FWD,2021-22,36,15,1110,22,9,40,25,12,60,16,1,2,0,0,8.59
+747,Pedro Dubois,Northgate City FC,FWD,2021-22,26,14,896,29,4,34,30,13,73,9,4,2,0,0,8.97
+748,Oluwaseun Bianchi,Northgate City FC,FWD,2021-22,31,18,1206,16,1,37,26,7,16,20,0,1,0,0,7.81
+749,Henri Johnson,Northgate City FC,FWD,2021-22,23,19,1634,17,12,46,29,20,34,15,4,1,0,0,8.37
+750,Marco Costa,Northgate City FC,FWD,2021-22,21,15,1200,12,2,38,21,4,68,22,0,2,0,0,7.42
+751,David Martinez,Ironclad FC,GK,2022-23,24,9,828,0,0,1,1,8,4,12,8,2,3,107,5.84
+752,Emil Park,Ironclad FC,GK,2022-23,37,29,2668,0,1,2,2,8,3,15,9,0,2,76,6.55
+753,Seun Kim,Ironclad FC,GK,2022-23,24,10,730,0,1,0,0,7,0,16,5,2,1,98,5.62
+754,Takeshi Tanaka,Ironclad FC,DEF,2022-23,24,29,2059,3,3,8,7,12,18,71,7,2,0,0,6.83
+755,Rui Mensah,Ironclad FC,DEF,2022-23,29,26,1768,1,2,9,5,2,30,25,6,2,0,0,5.69
+756,Matteo Andersen,Ironclad FC,DEF,2022-23,32,10,600,2,5,2,2,7,25,79,9,0,0,0,6.3
+757,Jorge Osei,Ironclad FC,DEF,2022-23,25,19,1786,1,7,4,3,10,27,37,1,1,0,0,5.98
+758,Kenji Petrov,Ironclad FC,DEF,2022-23,19,35,2135,2,6,5,5,12,8,49,8,2,0,0,5.99
+759,Ade Walker,Ironclad FC,DEF,2022-23,24,9,702,0,7,6,5,11,37,35,1,1,0,0,6.64
+760,James Silva,Ironclad FC,DEF,2022-23,23,29,2001,1,3,2,1,10,17,44,3,2,0,0,6.14
+761,Carlos Santos,Ironclad FC,DEF,2022-23,23,32,2176,1,6,4,3,14,6,61,7,1,0,0,6.11
+762,Luca Nakamura,Ironclad FC,MID,2022-23,25,7,588,10,14,25,22,16,49,16,4,2,0,0,7.99
+763,Ahmed Mueller,Ironclad FC,MID,2022-23,28,26,2106,9,14,27,20,19,65,24,3,1,0,0,7.51
+764,Yuki Okafor,Ironclad FC,MID,2022-23,23,32,2368,9,2,12,12,11,18,52,4,2,0,0,7.41
+765,Kwame Ferreira,Ironclad FC,MID,2022-23,22,19,1387,10,2,26,20,3,28,11,4,2,0,0,6.4
+766,Ivan Rossi,Ironclad FC,MID,2022-23,29,24,1488,9,10,23,20,17,25,24,1,0,0,0,7.85
+767,Pedro Dubois,Ironclad FC,MID,2022-23,22,12,1056,9,16,25,13,18,21,57,0,2,0,0,7.31
+768,Oluwaseun Bianchi,Ironclad FC,MID,2022-23,21,11,814,6,6,24,14,9,43,20,8,2,0,0,6.56
+769,Henri Johnson,Ironclad FC,MID,2022-23,20,19,1539,5,6,12,7,12,29,24,0,0,0,0,6.91
+770,Marco Costa,Ironclad FC,FWD,2022-23,23,11,891,11,10,17,13,17,48,4,5,1,0,0,7.19
+771,David Martinez,Ironclad FC,FWD,2022-23,33,12,924,24,12,33,30,15,64,4,5,0,0,0,9.31
+772,Emil Park,Ironclad FC,FWD,2022-23,23,20,1420,0,1,28,1,4,20,12,9,1,0,0,5.39
+773,Seun Kim,Ironclad FC,FWD,2022-23,33,30,1800,0,12,28,26,21,55,5,2,2,0,0,7.07
+774,Takeshi Tanaka,Ironclad FC,FWD,2022-23,20,24,1440,10,0,24,14,4,56,20,3,2,0,0,6.27
+775,Rui Mensah,Ironclad FC,FWD,2022-23,28,32,2432,6,0,34,8,1,20,19,3,2,0,0,6.42
+776,Matteo Andersen,Blue Wave SC,GK,2022-23,18,29,2001,0,1,1,0,8,1,9,5,1,12,60,5.39
+777,Jorge Osei,Blue Wave SC,GK,2022-23,26,6,480,0,1,2,1,6,0,18,1,0,3,113,6.15
+778,Kenji Petrov,Blue Wave SC,GK,2022-23,26,11,704,0,0,1,0,7,3,15,7,0,0,24,5.73
+779,Ade Walker,Blue Wave SC,DEF,2022-23,19,9,783,2,1,11,2,4,28,51,6,1,0,0,6.24
+780,James Silva,Blue Wave SC,DEF,2022-23,19,30,2010,5,5,5,5,7,37,27,0,1,0,0,6.9
+781,Carlos Santos,Blue Wave SC,DEF,2022-23,31,37,3182,0,0,0,0,9,17,43,3,0,0,0,5.93
+782,Luca Nakamura,Blue Wave SC,DEF,2022-23,35,30,2700,4,1,10,9,6,27,44,3,2,0,0,6.08
+783,Ahmed Mueller,Blue Wave SC,DEF,2022-23,31,32,2272,2,6,5,5,9,37,35,3,0,0,0,6.36
+784,Yuki Okafor,Blue Wave SC,DEF,2022-23,18,33,2145,3,4,9,7,7,21,26,8,1,0,0,5.98
+785,Kwame Ferreira,Blue Wave SC,DEF,2022-23,25,20,1480,5,6,6,5,12,20,55,5,0,0,0,6.65
+786,Ivan Rossi,Blue Wave SC,DEF,2022-23,27,16,1008,1,7,7,2,11,21,30,1,1,0,0,6.14
+787,Pedro Dubois,Blue Wave SC,MID,2022-23,29,14,952,3,8,13,6,16,13,43,9,2,0,0,6.08
+788,Oluwaseun Bianchi,Blue Wave SC,MID,2022-23,24,9,837,12,14,27,25,22,38,27,5,2,0,0,8.3
+789,Henri Johnson,Blue Wave SC,MID,2022-23,24,17,1462,6,6,11,8,13,38,40,0,0,0,0,6.98
+790,Marco Costa,Blue Wave SC,MID,2022-23,37,5,400,6,11,8,6,11,44,37,9,2,0,0,7.19
+791,David Martinez,Blue Wave SC,MID,2022-23,30,9,675,12,6,31,19,12,29,13,1,0,0,0,7.79
+792,Emil Park,Blue Wave SC,MID,2022-23,31,33,2310,7,7,15,8,9,27,43,9,0,0,0,6.46
+793,Seun Kim,Blue Wave SC,MID,2022-23,25,13,858,12,16,27,22,24,46,22,1,2,0,0,8.47
+794,Takeshi Tanaka,Blue Wave SC,MID,2022-23,21,7,455,11,2,25,23,10,30,35,3,0,0,0,7.68
+795,Rui Mensah,Blue Wave SC,FWD,2022-23,20,24,1992,6,11,28,22,16,42,19,3,1,0,0,7.37
+796,Matteo Andersen,Blue Wave SC,FWD,2022-23,24,29,2465,13,13,20,15,18,14,15,4,2,0,0,7.83
+797,Jorge Osei,Blue Wave SC,FWD,2022-23,30,25,2175,8,8,26,18,10,73,2,6,2,0,0,6.9
+798,Kenji Petrov,Blue Wave SC,FWD,2022-23,36,10,800,15,6,44,17,8,38,14,8,1,0,0,7.48
+799,Ade Walker,Blue Wave SC,FWD,2022-23,36,19,1501,2,0,17,8,2,48,15,7,1,0,0,6.0
+800,James Silva,Blue Wave SC,FWD,2022-23,18,30,2100,27,9,41,30,10,71,16,4,0,0,0,9.23
+801,Carlos Santos,Red Storm United,GK,2022-23,34,37,2294,0,1,1,0,7,1,9,9,0,10,84,5.93
+802,Luca Nakamura,Red Storm United,GK,2022-23,24,29,2349,0,1,0,0,5,3,5,7,0,4,43,5.54
+803,Ahmed Mueller,Red Storm United,GK,2022-23,21,7,630,0,0,1,1,4,2,15,0,0,1,30,5.97
+804,Yuki Okafor,Red Storm United,DEF,2022-23,29,9,783,3,6,3,3,12,14,42,8,0,0,0,6.72
+805,Kwame Ferreira,Red Storm United,DEF,2022-23,34,7,658,2,2,3,2,6,35,79,7,1,0,0,5.99
+806,Ivan Rossi,Red Storm United,DEF,2022-23,25,14,1302,1,5,10,2,6,32,67,7,2,0,0,5.85
+807,Pedro Dubois,Red Storm United,DEF,2022-23,28,5,350,3,1,4,4,7,12,22,9,0,0,0,6.65
+808,Oluwaseun Bianchi,Red Storm United,DEF,2022-23,25,26,2184,4,7,10,8,10,35,54,6,1,0,0,6.72
+809,Henri Johnson,Red Storm United,DEF,2022-23,30,34,2720,0,7,5,2,10,31,37,8,2,0,0,5.87
+810,Marco Costa,Red Storm United,DEF,2022-23,35,10,860,3,6,7,6,6,5,69,6,0,0,0,6.91
+811,David Martinez,Red Storm United,DEF,2022-23,20,34,2312,3,0,4,4,8,23,34,1,2,0,0,6.03
+812,Emil Park,Red Storm United,MID,2022-23,21,9,720,12,12,29,18,20,13,39,0,0,0,0,7.44
+813,Seun Kim,Red Storm United,MID,2022-23,37,30,2490,7,3,16,11,11,64,50,7,0,0,0,6.83
+814,Takeshi Tanaka,Red Storm United,MID,2022-23,28,30,2730,7,7,26,19,8,51,58,4,0,0,0,7.39
+815,Rui Mensah,Red Storm United,MID,2022-23,22,37,2368,1,17,4,2,17,55,46,3,0,0,0,7.4
+816,Matteo Andersen,Red Storm United,MID,2022-23,37,31,2697,12,14,25,17,23,29,59,3,0,0,0,7.8
+817,Jorge Osei,Red Storm United,MID,2022-23,29,34,2176,9,14,27,18,23,19,47,9,1,0,0,7.71
+818,Kenji Petrov,Red Storm United,MID,2022-23,19,35,2275,5,5,19,17,12,48,11,3,2,0,0,6.83
+819,Ade Walker,Red Storm United,MID,2022-23,28,7,420,2,16,21,2,25,68,30,2,0,0,0,6.71
+820,James Silva,Red Storm United,FWD,2022-23,23,30,2130,22,2,26,23,3,52,9,7,1,0,0,7.86
+821,Carlos Santos,Red Storm United,FWD,2022-23,18,6,498,2,3,29,11,12,62,9,8,1,0,0,5.83
+822,Luca Nakamura,Red Storm United,FWD,2022-23,36,16,1424,18,9,29,27,17,62,21,1,2,0,0,8.03
+823,Ahmed Mueller,Red Storm United,FWD,2022-23,37,22,1562,6,5,9,8,10,59,17,3,2,0,0,6.34
+824,Yuki Okafor,Red Storm United,FWD,2022-23,25,37,3330,29,2,44,37,4,70,4,0,2,0,0,9.24
+825,Kwame Ferreira,Red Storm United,FWD,2022-23,37,31,2697,24,13,38,25,19,67,19,3,0,0,0,8.69
+826,Ivan Rossi,Golden Eagles CF,GK,2022-23,35,30,1890,0,1,1,1,6,3,12,3,2,14,71,6.56
+827,Pedro Dubois,Golden Eagles CF,GK,2022-23,26,27,2322,0,1,1,1,8,2,14,7,2,4,92,5.63
+828,Oluwaseun Bianchi,Golden Eagles CF,GK,2022-23,24,29,2552,0,1,2,2,5,3,6,5,1,10,70,6.12
+829,Henri Johnson,Golden Eagles CF,DEF,2022-23,33,18,1206,2,2,5,4,5,22,44,8,1,0,0,5.8
+830,Marco Costa,Golden Eagles CF,DEF,2022-23,32,19,1368,2,1,6,3,4,30,61,5,1,0,0,6.16
+831,David Martinez,Golden Eagles CF,DEF,2022-23,33,34,2380,4,2,7,6,4,26,59,0,2,0,0,6.47
+832,Emil Park,Golden Eagles CF,DEF,2022-23,35,34,2584,0,1,2,0,7,37,42,2,1,0,0,5.52
+833,Seun Kim,Golden Eagles CF,DEF,2022-23,29,8,728,4,7,12,4,16,29,33,7,2,0,0,6.74
+834,Takeshi Tanaka,Golden Eagles CF,DEF,2022-23,37,8,480,5,2,9,9,10,26,22,5,1,0,0,6.59
+835,Rui Mensah,Golden Eagles CF,DEF,2022-23,28,35,2380,2,4,7,5,10,15,21,7,2,0,0,5.97
+836,Matteo Andersen,Golden Eagles CF,DEF,2022-23,31,17,1496,2,5,3,2,11,12,27,6,1,0,0,5.88
+837,Jorge Osei,Golden Eagles CF,MID,2022-23,23,20,1300,1,4,5,4,8,42,33,1,0,0,0,6.09
+838,Kenji Petrov,Golden Eagles CF,MID,2022-23,32,11,770,3,5,13,13,8,52,49,4,1,0,0,6.36
+839,Ade Walker,Golden Eagles CF,MID,2022-23,18,20,1300,10,15,29,29,23,17,14,5,0,0,0,8.29
+840,James Silva,Golden Eagles CF,MID,2022-23,28,22,1320,9,14,16,15,18,18,15,5,2,0,0,7.98
+841,Carlos Santos,Golden Eagles CF,MID,2022-23,19,22,1320,9,4,25,16,6,59,49,8,1,0,0,7.01
+842,Luca Nakamura,Golden Eagles CF,MID,2022-23,30,24,1680,10,4,24,11,9,44,58,5,1,0,0,6.72
+843,Ahmed Mueller,Golden Eagles CF,MID,2022-23,23,23,1840,9,14,26,24,16,57,48,2,1,0,0,7.3
+844,Yuki Okafor,Golden Eagles CF,MID,2022-23,27,9,774,11,6,18,12,11,38,38,8,2,0,0,7.54
+845,Kwame Ferreira,Golden Eagles CF,FWD,2022-23,34,13,793,3,13,22,9,18,69,7,2,0,0,0,6.9
+846,Ivan Rossi,Golden Eagles CF,FWD,2022-23,23,5,340,17,5,36,33,7,77,17,6,1,0,0,7.52
+847,Pedro Dubois,Golden Eagles CF,FWD,2022-23,29,17,1496,26,0,41,26,5,21,8,6,1,0,0,8.43
+848,Oluwaseun Bianchi,Golden Eagles CF,FWD,2022-23,25,34,2448,7,6,23,7,11,68,12,4,0,0,0,6.75
+849,Henri Johnson,Golden Eagles CF,FWD,2022-23,30,7,434,12,9,22,12,9,70,9,1,2,0,0,7.28
+850,Marco Costa,Golden Eagles CF,FWD,2022-23,27,36,3024,6,3,10,7,6,19,19,6,1,0,0,6.42
+851,David Martinez,Silver Fox Athletic,GK,2022-23,33,17,1037,0,1,1,1,3,4,12,6,2,1,116,5.84
+852,Emil Park,Silver Fox Athletic,GK,2022-23,34,10,600,0,1,2,2,7,0,12,3,1,3,45,5.98
+853,Seun Kim,Silver Fox Athletic,GK,2022-23,31,23,1403,0,0,1,1,1,4,13,4,2,11,68,6.73
+854,Takeshi Tanaka,Silver Fox Athletic,DEF,2022-23,27,34,3196,3,0,6,6,8,25,65,0,2,0,0,6.63
+855,Rui Mensah,Silver Fox Athletic,DEF,2022-23,28,20,1240,0,4,5,3,4,10,53,1,1,0,0,6.24
+856,Matteo Andersen,Silver Fox Athletic,DEF,2022-23,37,33,2409,4,0,12,12,7,31,43,9,0,0,0,6.45
+857,Jorge Osei,Silver Fox Athletic,DEF,2022-23,28,8,680,0,7,1,1,14,33,46,7,2,0,0,6.81
+858,Kenji Petrov,Silver Fox Athletic,DEF,2022-23,28,34,2890,0,5,8,0,13,34,27,7,0,0,0,5.38
+859,Ade Walker,Silver Fox Athletic,DEF,2022-23,29,35,2345,1,3,4,2,4,20,22,2,0,0,0,6.55
+860,James Silva,Silver Fox Athletic,DEF,2022-23,25,33,2508,5,1,7,7,5,12,64,4,1,0,0,6.06
+861,Carlos Santos,Silver Fox Athletic,DEF,2022-23,33,30,2640,5,6,10,9,9,18,47,5,0,0,0,6.61
+862,Luca Nakamura,Silver Fox Athletic,MID,2022-23,26,21,1785,6,4,17,15,6,60,12,2,0,0,0,6.33
+863,Ahmed Mueller,Silver Fox Athletic,MID,2022-23,36,9,747,7,5,23,19,11,63,15,8,1,0,0,6.44
+864,Yuki Okafor,Silver Fox Athletic,MID,2022-23,36,18,1602,4,17,21,18,19,39,25,0,0,0,0,7.14
+865,Kwame Ferreira,Silver Fox Athletic,MID,2022-23,24,35,2170,0,8,2,0,16,20,11,1,1,0,0,6.11
+866,Ivan Rossi,Silver Fox Athletic,MID,2022-23,31,16,1456,0,3,17,3,3,21,13,1,1,0,0,5.33
+867,Pedro Dubois,Silver Fox Athletic,MID,2022-23,36,8,672,11,10,21,20,13,24,15,0,2,0,0,7.23
+868,Oluwaseun Bianchi,Silver Fox Athletic,MID,2022-23,19,8,488,8,4,20,17,7,68,18,4,0,0,0,6.99
+869,Henri Johnson,Silver Fox Athletic,MID,2022-23,18,26,1898,1,10,12,7,18,21,47,2,2,0,0,6.43
+870,Marco Costa,Silver Fox Athletic,FWD,2022-23,35,36,2448,29,0,34,34,6,35,2,6,0,0,0,8.69
+871,David Martinez,Silver Fox Athletic,FWD,2022-23,27,13,871,28,7,41,34,10,63,3,6,0,0,0,9.45
+872,Emil Park,Silver Fox Athletic,FWD,2022-23,27,5,340,1,7,13,3,10,58,5,9,0,0,0,5.86
+873,Seun Kim,Silver Fox Athletic,FWD,2022-23,28,13,1209,0,13,16,1,15,18,2,3,1,0,0,6.53
+874,Takeshi Tanaka,Silver Fox Athletic,FWD,2022-23,23,13,897,9,11,17,14,12,76,8,8,0,0,0,7.37
+875,Rui Mensah,Silver Fox Athletic,FWD,2022-23,31,11,946,4,10,8,5,16,54,12,6,1,0,0,7.02
+876,Matteo Andersen,Thunder Valley FC,GK,2022-23,32,15,1275,0,1,2,2,2,3,15,3,2,6,48,6.1
+877,Jorge Osei,Thunder Valley FC,GK,2022-23,23,11,693,0,1,1,0,10,0,12,1,2,1,20,5.58
+878,Kenji Petrov,Thunder Valley FC,GK,2022-23,36,16,1056,0,1,0,0,7,4,18,7,1,5,83,5.5
+879,Ade Walker,Thunder Valley FC,DEF,2022-23,18,28,2324,5,3,9,8,7,18,53,7,1,0,0,7.06
+880,James Silva,Thunder Valley FC,DEF,2022-23,28,28,2240,2,7,5,2,7,20,79,9,1,0,0,6.61
+881,Carlos Santos,Thunder Valley FC,DEF,2022-23,30,26,2158,1,0,8,2,2,30,21,7,1,0,0,5.7
+882,Luca Nakamura,Thunder Valley FC,DEF,2022-23,18,32,2144,0,7,1,1,7,22,52,1,1,0,0,6.77
+883,Ahmed Mueller,Thunder Valley FC,DEF,2022-23,30,9,846,2,7,11,6,11,22,23,3,1,0,0,6.06
+884,Yuki Okafor,Thunder Valley FC,DEF,2022-23,23,9,801,4,3,7,7,3,15,24,1,2,0,0,6.06
+885,Kwame Ferreira,Thunder Valley FC,DEF,2022-23,27,29,2088,2,5,7,3,6,13,74,6,1,0,0,6.42
+886,Ivan Rossi,Thunder Valley FC,DEF,2022-23,25,11,858,2,3,6,3,8,12,74,0,0,0,0,6.28
+887,Pedro Dubois,Thunder Valley FC,MID,2022-23,31,8,712,6,4,13,9,8,37,21,4,2,0,0,6.57
+888,Oluwaseun Bianchi,Thunder Valley FC,MID,2022-23,37,32,2816,3,9,11,8,13,14,14,8,2,0,0,6.89
+889,Henri Johnson,Thunder Valley FC,MID,2022-23,27,23,2139,8,2,13,9,9,12,31,1,0,0,0,6.41
+890,Marco Costa,Thunder Valley FC,MID,2022-23,23,35,2870,13,7,26,15,15,32,21,1,0,0,0,7.5
+891,David Martinez,Thunder Valley FC,MID,2022-23,24,16,1120,12,11,30,27,12,49,59,9,1,0,0,7.53
+892,Emil Park,Thunder Valley FC,MID,2022-23,19,34,2550,1,12,3,3,16,52,32,3,2,0,0,6.38
+893,Seun Kim,Thunder Valley FC,MID,2022-23,21,31,2356,0,4,2,0,6,37,50,6,1,0,0,5.23
+894,Takeshi Tanaka,Thunder Valley FC,MID,2022-23,19,6,438,10,12,15,11,19,49,42,4,0,0,0,7.94
+895,Rui Mensah,Thunder Valley FC,FWD,2022-23,31,13,1118,11,6,15,11,11,68,24,7,1,0,0,7.71
+896,Matteo Andersen,Thunder Valley FC,FWD,2022-23,23,16,1168,26,7,48,45,16,74,22,9,2,0,0,8.45
+897,Jorge Osei,Thunder Valley FC,FWD,2022-23,20,31,2201,24,13,44,33,22,29,19,8,0,0,0,9.04
+898,Kenji Petrov,Thunder Valley FC,FWD,2022-23,34,22,1782,4,4,26,5,10,16,21,4,2,0,0,5.98
+899,Ade Walker,Thunder Valley FC,FWD,2022-23,18,28,2520,4,4,29,27,5,76,2,1,2,0,0,6.52
+900,James Silva,Thunder Valley FC,FWD,2022-23,19,22,1584,21,12,36,36,14,52,16,2,1,0,0,9.21
+901,Carlos Santos,Coastline City SC,GK,2022-23,23,8,648,0,1,1,1,3,4,7,4,0,4,94,6.14
+902,Luca Nakamura,Coastline City SC,GK,2022-23,22,7,651,0,0,1,1,3,2,11,2,1,3,94,5.93
+903,Ahmed Mueller,Coastline City SC,GK,2022-23,27,9,720,0,1,1,1,4,4,18,4,1,4,29,6.27
+904,Yuki Okafor,Coastline City SC,DEF,2022-23,23,36,3348,2,5,7,6,14,30,49,7,1,0,0,6.64
+905,Kwame Ferreira,Coastline City SC,DEF,2022-23,36,17,1275,4,2,12,6,6,17,49,9,0,0,0,6.19
+906,Ivan Rossi,Coastline City SC,DEF,2022-23,28,23,1656,0,5,9,1,14,20,51,8,2,0,0,5.67
+907,Pedro Dubois,Coastline City SC,DEF,2022-23,25,12,804,2,4,3,3,6,21,62,0,0,0,0,6.77
+908,Oluwaseun Bianchi,Coastline City SC,DEF,2022-23,37,32,2208,3,1,6,6,3,28,37,2,2,0,0,6.5
+909,Henri Johnson,Coastline City SC,DEF,2022-23,27,9,810,2,5,6,2,6,26,65,8,1,0,0,5.75
+910,Marco Costa,Coastline City SC,DEF,2022-23,23,35,3290,2,1,6,5,10,24,28,3,0,0,0,6.28
+911,David Martinez,Coastline City SC,DEF,2022-23,20,7,602,2,6,6,4,11,5,29,8,2,0,0,5.96
+912,Emil Park,Coastline City SC,MID,2022-23,21,8,480,1,10,5,4,16,17,19,9,0,0,0,6.7
+913,Seun Kim,Coastline City SC,MID,2022-23,22,9,603,5,2,14,9,6,41,47,9,1,0,0,5.99
+914,Takeshi Tanaka,Coastline City SC,MID,2022-23,28,8,600,4,5,8,7,6,46,53,3,1,0,0,6.83
+915,Rui Mensah,Coastline City SC,MID,2022-23,28,18,1566,3,3,21,5,5,27,11,3,0,0,0,5.72
+916,Matteo Andersen,Coastline City SC,MID,2022-23,27,35,2590,8,9,15,15,14,45,15,5,1,0,0,7.3
+917,Jorge Osei,Coastline City SC,MID,2022-23,25,33,2310,12,15,18,15,21,54,38,9,1,0,0,8.29
+918,Kenji Petrov,Coastline City SC,MID,2022-23,34,33,2211,0,4,6,3,4,40,44,6,1,0,0,5.74
+919,Ade Walker,Coastline City SC,MID,2022-23,33,6,414,12,9,21,18,18,25,23,7,2,0,0,7.77
+920,James Silva,Coastline City SC,FWD,2022-23,27,31,2387,2,9,29,22,12,21,7,7,2,0,0,6.53
+921,Carlos Santos,Coastline City SC,FWD,2022-23,23,18,1602,10,3,36,35,10,53,18,8,2,0,0,7.09
+922,Luca Nakamura,Coastline City SC,FWD,2022-23,26,30,2820,20,7,38,20,16,10,4,7,0,0,0,7.87
+923,Ahmed Mueller,Coastline City SC,FWD,2022-23,26,18,1296,20,10,24,24,17,79,12,7,0,0,0,8.96
+924,Yuki Okafor,Coastline City SC,FWD,2022-23,37,34,2312,0,9,14,14,12,28,2,2,1,0,0,6.87
+925,Kwame Ferreira,Coastline City SC,FWD,2022-23,31,24,1560,9,11,13,11,13,55,2,4,0,0,0,7.58
+926,Ivan Rossi,Mountain Peak United,GK,2022-23,25,27,2484,0,0,0,0,9,2,8,7,0,7,107,6.14
+927,Pedro Dubois,Mountain Peak United,GK,2022-23,18,13,793,0,1,1,0,2,2,18,7,0,5,98,5.96
+928,Oluwaseun Bianchi,Mountain Peak United,GK,2022-23,22,9,540,0,0,1,0,3,4,15,3,0,3,95,5.59
+929,Henri Johnson,Mountain Peak United,DEF,2022-23,37,16,976,5,1,6,6,2,10,40,3,0,0,0,6.6
+930,Marco Costa,Mountain Peak United,DEF,2022-23,18,12,744,1,2,5,4,9,15,79,0,1,0,0,5.89
+931,David Martinez,Mountain Peak United,DEF,2022-23,26,20,1280,5,4,5,5,11,37,50,2,2,0,0,6.46
+932,Emil Park,Mountain Peak United,DEF,2022-23,21,35,2975,3,5,5,5,5,34,24,0,1,0,0,6.84
+933,Seun Kim,Mountain Peak United,DEF,2022-23,36,14,980,5,2,7,7,2,34,25,8,0,0,0,6.42
+934,Takeshi Tanaka,Mountain Peak United,DEF,2022-23,26,33,2772,0,4,8,1,8,13,59,4,1,0,0,5.43
+935,Rui Mensah,Mountain Peak United,DEF,2022-23,28,36,2880,2,7,8,7,12,25,63,6,1,0,0,6.96
+936,Matteo Andersen,Mountain Peak United,DEF,2022-23,23,28,1708,3,7,9,5,11,26,36,2,1,0,0,6.46
+937,Jorge Osei,Mountain Peak United,MID,2022-23,36,30,2220,13,2,32,31,8,59,27,6,2,0,0,6.94
+938,Kenji Petrov,Mountain Peak United,MID,2022-23,24,20,1720,3,11,5,5,19,68,11,3,1,0,0,6.71
+939,Ade Walker,Mountain Peak United,MID,2022-23,32,27,1998,6,6,22,19,9,69,59,7,0,0,0,6.68
+940,James Silva,Mountain Peak United,MID,2022-23,26,8,496,5,10,7,7,12,16,52,3,0,0,0,7.44
+941,Carlos Santos,Mountain Peak United,MID,2022-23,19,8,648,12,3,17,13,3,16,37,4,2,0,0,6.93
+942,Luca Nakamura,Mountain Peak United,MID,2022-23,26,21,1365,1,4,20,7,8,17,46,1,2,0,0,5.75
+943,Ahmed Mueller,Mountain Peak United,MID,2022-23,18,13,1040,11,7,17,11,11,10,22,6,0,0,0,7.74
+944,Yuki Okafor,Mountain Peak United,MID,2022-23,37,26,2028,8,7,13,11,13,51,28,6,0,0,0,7.52
+945,Kwame Ferreira,Mountain Peak United,FWD,2022-23,30,24,1608,23,6,32,32,13,18,13,3,2,0,0,8.46
+946,Ivan Rossi,Mountain Peak United,FWD,2022-23,31,5,420,24,8,31,29,14,33,19,0,0,0,0,8.5
+947,Pedro Dubois,Mountain Peak United,FWD,2022-23,23,5,460,27,2,37,33,11,56,19,6,2,0,0,8.64
+948,Oluwaseun Bianchi,Mountain Peak United,FWD,2022-23,23,22,2024,11,1,29,21,8,77,20,2,1,0,0,6.81
+949,Henri Johnson,Mountain Peak United,FWD,2022-23,32,34,2414,4,11,29,22,18,27,23,7,2,0,0,6.81
+950,Marco Costa,Mountain Peak United,FWD,2022-23,19,11,1001,25,0,37,33,5,32,7,4,1,0,0,8.52
+951,David Martinez,Riverside Rovers,GK,2022-23,18,9,639,0,0,2,1,5,3,18,6,0,0,30,5.79
+952,Emil Park,Riverside Rovers,GK,2022-23,35,6,528,0,1,0,0,9,1,9,8,1,0,114,5.45
+953,Seun Kim,Riverside Rovers,GK,2022-23,29,24,1800,0,1,0,0,4,4,7,4,0,11,101,5.79
+954,Takeshi Tanaka,Riverside Rovers,DEF,2022-23,23,20,1280,2,5,7,3,7,37,53,6,1,0,0,5.81
+955,Rui Mensah,Riverside Rovers,DEF,2022-23,37,16,1216,5,3,9,7,8,20,30,6,1,0,0,6.14
+956,Matteo Andersen,Riverside Rovers,DEF,2022-23,21,25,2225,5,2,5,5,8,6,57,3,2,0,0,6.82
+957,Jorge Osei,Riverside Rovers,DEF,2022-23,26,32,2496,3,2,7,3,5,18,70,3,1,0,0,5.79
+958,Kenji Petrov,Riverside Rovers,DEF,2022-23,24,18,1098,2,2,2,2,3,14,35,7,0,0,0,6.58
+959,Ade Walker,Riverside Rovers,DEF,2022-23,29,23,1794,4,6,6,4,12,21,67,9,0,0,0,6.69
+960,James Silva,Riverside Rovers,DEF,2022-23,18,12,1044,2,2,4,3,5,9,55,0,2,0,0,5.79
+961,Carlos Santos,Riverside Rovers,DEF,2022-23,18,16,1008,2,4,2,2,8,32,51,1,2,0,0,5.95
+962,Luca Nakamura,Riverside Rovers,MID,2022-23,26,13,780,10,11,28,26,11,36,34,3,2,0,0,7.99
+963,Ahmed Mueller,Riverside Rovers,MID,2022-23,23,18,1638,3,17,5,4,26,45,23,9,2,0,0,6.94
+964,Yuki Okafor,Riverside Rovers,MID,2022-23,34,26,1560,11,7,21,13,10,59,34,0,1,0,0,7.47
+965,Kwame Ferreira,Riverside Rovers,MID,2022-23,35,20,1820,13,2,24,22,5,33,36,0,1,0,0,7.26
+966,Ivan Rossi,Riverside Rovers,MID,2022-23,28,28,1932,5,3,13,7,3,47,39,5,1,0,0,6.41
+967,Pedro Dubois,Riverside Rovers,MID,2022-23,19,19,1558,10,13,25,15,16,60,22,7,0,0,0,7.8
+968,Oluwaseun Bianchi,Riverside Rovers,MID,2022-23,31,24,1560,8,5,19,19,6,56,35,1,1,0,0,6.78
+969,Henri Johnson,Riverside Rovers,MID,2022-23,27,18,1278,9,6,19,9,14,32,52,2,2,0,0,7.02
+970,Marco Costa,Riverside Rovers,FWD,2022-23,19,36,2988,12,11,36,27,13,21,19,0,1,0,0,7.4
+971,David Martinez,Riverside Rovers,FWD,2022-23,32,21,1533,5,10,24,7,11,23,15,0,2,0,0,6.9
+972,Emil Park,Riverside Rovers,FWD,2022-23,37,35,2485,14,6,16,15,11,50,19,7,0,0,0,8.04
+973,Seun Kim,Riverside Rovers,FWD,2022-23,32,25,1575,22,10,37,23,12,53,15,7,2,0,0,8.39
+974,Takeshi Tanaka,Riverside Rovers,FWD,2022-23,36,10,690,1,3,20,18,11,78,10,7,2,0,0,6.54
+975,Rui Mensah,Riverside Rovers,FWD,2022-23,19,28,1792,10,3,28,21,5,15,20,0,1,0,0,6.76
+976,Matteo Andersen,Northgate City FC,GK,2022-23,25,36,2592,0,1,2,1,4,2,10,1,0,13,66,6.03
+977,Jorge Osei,Northgate City FC,GK,2022-23,24,10,710,0,1,0,0,9,0,8,9,1,1,41,5.27
+978,Kenji Petrov,Northgate City FC,GK,2022-23,19,20,1560,0,0,1,0,6,2,9,6,1,7,24,5.8
+979,Ade Walker,Northgate City FC,DEF,2022-23,25,23,1633,2,0,5,3,5,12,28,9,0,0,0,5.72
+980,James Silva,Northgate City FC,DEF,2022-23,32,27,2511,0,7,0,0,11,27,72,3,0,0,0,6.47
+981,Carlos Santos,Northgate City FC,DEF,2022-23,34,29,2697,5,3,12,9,7,32,35,6,0,0,0,6.36
+982,Luca Nakamura,Northgate City FC,DEF,2022-23,30,37,2294,4,1,6,4,9,8,29,9,1,0,0,6.25
+983,Ahmed Mueller,Northgate City FC,DEF,2022-23,18,22,2046,2,2,9,7,10,30,51,3,0,0,0,6.57
+984,Yuki Okafor,Northgate City FC,DEF,2022-23,27,13,1118,4,6,12,7,10,28,79,7,0,0,0,6.77
+985,Kwame Ferreira,Northgate City FC,DEF,2022-23,30,18,1530,0,5,8,3,5,37,73,6,0,0,0,6.14
+986,Ivan Rossi,Northgate City FC,DEF,2022-23,23,25,2150,0,6,5,3,11,21,45,3,0,0,0,5.99
+987,Pedro Dubois,Northgate City FC,MID,2022-23,21,22,2002,1,6,3,1,10,52,58,7,2,0,0,6.24
+988,Oluwaseun Bianchi,Northgate City FC,MID,2022-23,29,27,2214,0,13,2,1,19,62,55,0,2,0,0,6.82
+989,Henri Johnson,Northgate City FC,MID,2022-23,23,35,2695,7,10,14,10,17,67,39,7,2,0,0,7.29
+990,Marco Costa,Northgate City FC,MID,2022-23,32,37,3145,11,16,30,30,19,52,39,1,2,0,0,8.33
+991,David Martinez,Northgate City FC,MID,2022-23,30,6,456,3,6,22,10,8,18,37,9,0,0,0,6.01
+992,Emil Park,Northgate City FC,MID,2022-23,25,30,2400,6,8,20,14,10,65,14,5,2,0,0,6.92
+993,Seun Kim,Northgate City FC,MID,2022-23,21,31,2449,10,14,28,14,22,52,28,9,0,0,0,7.11
+994,Takeshi Tanaka,Northgate City FC,MID,2022-23,29,28,2464,12,5,27,23,11,10,49,9,0,0,0,7.17
+995,Rui Mensah,Northgate City FC,FWD,2022-23,37,17,1462,29,4,58,46,12,23,16,0,0,0,0,8.65
+996,Matteo Andersen,Northgate City FC,FWD,2022-23,18,35,2240,2,3,25,14,10,27,22,7,0,0,0,6.33
+997,Jorge Osei,Northgate City FC,FWD,2022-23,34,22,1606,26,12,42,38,12,37,19,9,1,0,0,9.21
+998,Kenji Petrov,Northgate City FC,FWD,2022-23,29,5,455,22,6,47,23,8,18,20,0,1,0,0,7.9
+999,Ade Walker,Northgate City FC,FWD,2022-23,28,35,3290,17,0,30,20,8,62,18,9,1,0,0,6.89
+1000,James Silva,Northgate City FC,FWD,2022-23,25,22,1320,1,7,17,17,15,45,24,3,2,0,0,6.06
+1001,Carlos Santos,Ironclad FC,GK,2023-24,27,12,936,0,0,1,1,8,1,6,8,0,4,81,5.79
+1002,Luca Nakamura,Ironclad FC,GK,2023-24,23,11,825,0,0,1,0,8,2,7,7,0,3,37,5.95
+1003,Ahmed Mueller,Ironclad FC,GK,2023-24,35,8,664,0,0,0,0,0,0,11,9,2,2,43,5.25
+1004,Yuki Okafor,Ironclad FC,DEF,2023-24,37,15,1065,2,4,6,6,7,39,37,2,1,0,0,6.37
+1005,Kwame Ferreira,Ironclad FC,DEF,2023-24,25,6,384,0,3,3,0,12,36,71,5,0,0,0,5.41
+1006,Ivan Rossi,Ironclad FC,DEF,2023-24,26,33,1980,0,2,1,0,3,18,23,8,2,0,0,5.89
+1007,Pedro Dubois,Ironclad FC,DEF,2023-24,32,16,1184,0,5,0,0,7,32,59,6,0,0,0,5.86
+1008,Oluwaseun Bianchi,Ironclad FC,DEF,2023-24,22,31,2263,2,6,4,3,7,39,47,2,2,0,0,6.73
+1009,Henri Johnson,Ironclad FC,DEF,2023-24,23,32,2336,4,7,6,6,14,27,76,1,2,0,0,6.65
+1010,Marco Costa,Ironclad FC,DEF,2023-24,20,10,940,1,3,5,3,11,25,62,4,2,0,0,6.21
+1011,David Martinez,Ironclad FC,DEF,2023-24,18,13,1053,2,2,5,5,2,13,24,8,1,0,0,5.95
+1012,Emil Park,Ironclad FC,MID,2023-24,34,23,2047,0,14,6,6,20,12,27,9,1,0,0,6.62
+1013,Seun Kim,Ironclad FC,MID,2023-24,26,9,828,13,11,25,13,16,50,45,7,2,0,0,8.05
+1014,Takeshi Tanaka,Ironclad FC,MID,2023-24,29,17,1275,9,16,15,14,19,49,24,6,0,0,0,8.33
+1015,Rui Mensah,Ironclad FC,MID,2023-24,29,33,2211,4,17,23,20,21,29,53,8,2,0,0,7.13
+1016,Matteo Andersen,Ironclad FC,MID,2023-24,37,19,1425,9,16,13,9,19,35,59,4,2,0,0,7.38
+1017,Jorge Osei,Ironclad FC,MID,2023-24,27,12,828,9,14,13,10,21,35,40,2,2,0,0,7.25
+1018,Kenji Petrov,Ironclad FC,MID,2023-24,33,33,2607,10,4,18,13,11,55,27,3,1,0,0,7.13
+1019,Ade Walker,Ironclad FC,MID,2023-24,19,29,1769,13,15,25,14,22,58,55,3,2,0,0,8.48
+1020,James Silva,Ironclad FC,FWD,2023-24,27,11,704,4,13,22,7,18,41,10,4,2,0,0,7.21
+1021,Carlos Santos,Ironclad FC,FWD,2023-24,19,18,1278,21,9,28,24,9,47,13,1,1,0,0,8.63
+1022,Luca Nakamura,Ironclad FC,FWD,2023-24,21,29,1914,19,11,31,23,12,10,5,8,2,0,0,8.7
+1023,Ahmed Mueller,Ironclad FC,FWD,2023-24,29,15,1125,7,11,21,12,14,58,10,2,0,0,0,7.11
+1024,Yuki Okafor,Ironclad FC,FWD,2023-24,37,13,1066,9,4,15,11,9,56,14,4,0,0,0,7.04
+1025,Kwame Ferreira,Ironclad FC,FWD,2023-24,19,21,1533,23,4,51,34,12,19,16,2,2,0,0,8.49
+1026,Ivan Rossi,Blue Wave SC,GK,2023-24,19,17,1224,0,0,2,1,9,2,5,4,1,8,107,5.52
+1027,Pedro Dubois,Blue Wave SC,GK,2023-24,28,34,2244,0,0,1,1,6,2,13,9,1,17,98,6.77
+1028,Oluwaseun Bianchi,Blue Wave SC,GK,2023-24,35,7,637,0,1,2,0,3,4,15,2,1,1,38,5.59
+1029,Henri Johnson,Blue Wave SC,DEF,2023-24,21,31,1984,3,5,10,3,7,30,26,3,2,0,0,6.67
+1030,Marco Costa,Blue Wave SC,DEF,2023-24,21,36,2520,0,1,7,2,8,27,31,6,1,0,0,5.48
+1031,David Martinez,Blue Wave SC,DEF,2023-24,33,22,1782,4,3,7,6,4,38,70,2,1,0,0,6.88
+1032,Emil Park,Blue Wave SC,DEF,2023-24,32,5,380,4,7,5,4,15,5,72,7,2,0,0,6.7
+1033,Seun Kim,Blue Wave SC,DEF,2023-24,30,21,1617,1,6,4,3,12,28,56,0,0,0,0,6.88
+1034,Takeshi Tanaka,Blue Wave SC,DEF,2023-24,26,34,2856,2,0,9,8,9,22,73,5,0,0,0,6.25
+1035,Rui Mensah,Blue Wave SC,DEF,2023-24,18,10,610,5,2,8,8,8,17,57,3,0,0,0,7.1
+1036,Matteo Andersen,Blue Wave SC,DEF,2023-24,35,16,960,5,1,13,11,1,13,62,3,1,0,0,6.61
+1037,Jorge Osei,Blue Wave SC,MID,2023-24,31,20,1700,2,13,4,2,20,53,14,1,0,0,0,7.24
+1038,Kenji Petrov,Blue Wave SC,MID,2023-24,36,16,1392,13,3,20,14,4,61,38,3,0,0,0,7.69
+1039,Ade Walker,Blue Wave SC,MID,2023-24,23,31,2015,7,12,20,16,12,48,59,0,1,0,0,7.59
+1040,James Silva,Blue Wave SC,MID,2023-24,36,11,825,10,12,14,12,15,65,53,5,2,0,0,7.21
+1041,Carlos Santos,Blue Wave SC,MID,2023-24,27,31,2697,10,4,15,12,9,23,29,2,0,0,0,7.3
+1042,Luca Nakamura,Blue Wave SC,MID,2023-24,26,15,1050,8,4,25,25,4,11,53,4,2,0,0,6.54
+1043,Ahmed Mueller,Blue Wave SC,MID,2023-24,24,29,1769,6,8,25,20,13,59,56,3,0,0,0,7.01
+1044,Yuki Okafor,Blue Wave SC,MID,2023-24,37,9,621,8,8,20,19,12,14,20,3,0,0,0,7.18
+1045,Kwame Ferreira,Blue Wave SC,FWD,2023-24,31,35,3185,5,8,34,8,14,12,13,9,0,0,0,6.31
+1046,Ivan Rossi,Blue Wave SC,FWD,2023-24,28,25,2250,7,0,19,13,0,60,9,3,2,0,0,6.17
+1047,Pedro Dubois,Blue Wave SC,FWD,2023-24,27,15,960,2,0,21,21,6,50,5,5,0,0,0,6.01
+1048,Oluwaseun Bianchi,Blue Wave SC,FWD,2023-24,27,32,2688,8,1,10,9,6,33,8,4,2,0,0,7.06
+1049,Henri Johnson,Blue Wave SC,FWD,2023-24,33,16,1408,12,2,18,13,10,76,4,7,1,0,0,7.46
+1050,Marco Costa,Blue Wave SC,FWD,2023-24,36,21,1470,1,11,27,23,13,14,14,5,1,0,0,6.23
+1051,David Martinez,Red Storm United,GK,2023-24,20,36,3348,0,0,1,1,3,1,11,6,2,10,55,5.75
+1052,Emil Park,Red Storm United,GK,2023-24,28,8,544,0,1,1,0,5,3,13,2,2,0,67,5.01
+1053,Seun Kim,Red Storm United,GK,2023-24,23,9,603,0,0,2,1,3,4,18,6,0,4,109,6.39
+1054,Takeshi Tanaka,Red Storm United,DEF,2023-24,21,30,2760,3,2,5,5,7,16,30,2,1,0,0,5.91
+1055,Rui Mensah,Red Storm United,DEF,2023-24,18,36,3096,3,7,8,7,14,12,51,2,2,0,0,6.25
+1056,Matteo Andersen,Red Storm United,DEF,2023-24,21,24,1944,3,2,11,4,10,12,46,7,1,0,0,5.62
+1057,Jorge Osei,Red Storm United,DEF,2023-24,21,8,624,1,1,3,1,8,22,61,4,0,0,0,6.36
+1058,Kenji Petrov,Red Storm United,DEF,2023-24,28,10,700,3,7,12,8,13,34,75,7,2,0,0,6.14
+1059,Ade Walker,Red Storm United,DEF,2023-24,35,5,370,2,7,2,2,7,17,48,2,1,0,0,7.04
+1060,James Silva,Red Storm United,DEF,2023-24,36,29,2552,5,5,12,5,12,30,29,6,2,0,0,6.26
+1061,Carlos Santos,Red Storm United,DEF,2023-24,30,24,1824,2,3,7,3,5,27,34,4,0,0,0,6.56
+1062,Luca Nakamura,Red Storm United,MID,2023-24,30,14,1092,7,13,20,8,16,61,50,6,1,0,0,7.27
+1063,Ahmed Mueller,Red Storm United,MID,2023-24,27,29,1769,8,16,20,8,22,31,57,2,0,0,0,7.91
+1064,Yuki Okafor,Red Storm United,MID,2023-24,21,14,1120,4,4,23,11,12,31,50,4,1,0,0,6.39
+1065,Kwame Ferreira,Red Storm United,MID,2023-24,25,6,456,6,6,14,14,11,31,31,5,0,0,0,7.02
+1066,Ivan Rossi,Red Storm United,MID,2023-24,36,10,860,5,6,8,6,14,33,49,0,1,0,0,6.33
+1067,Pedro Dubois,Red Storm United,MID,2023-24,21,11,1023,6,17,12,6,17,15,48,8,2,0,0,7.16
+1068,Oluwaseun Bianchi,Red Storm United,MID,2023-24,32,28,2156,7,12,17,12,17,14,11,7,1,0,0,7.15
+1069,Henri Johnson,Red Storm United,MID,2023-24,21,37,2886,8,13,16,15,20,50,58,6,0,0,0,7.74
+1070,Marco Costa,Red Storm United,FWD,2023-24,29,28,2212,9,0,29,24,7,43,18,5,0,0,0,6.93
+1071,David Martinez,Red Storm United,FWD,2023-24,35,35,2520,18,0,44,27,0,47,3,4,2,0,0,7.13
+1072,Emil Park,Red Storm United,FWD,2023-24,21,9,612,17,10,38,25,19,60,19,1,2,0,0,7.7
+1073,Seun Kim,Red Storm United,FWD,2023-24,20,12,876,20,0,29,29,6,61,9,5,1,0,0,7.51
+1074,Takeshi Tanaka,Red Storm United,FWD,2023-24,34,11,759,13,13,33,26,15,24,10,9,1,0,0,7.68
+1075,Rui Mensah,Red Storm United,FWD,2023-24,29,20,1560,8,0,17,8,3,57,4,8,1,0,0,6.16
+1076,Matteo Andersen,Golden Eagles CF,GK,2023-24,31,25,1675,0,1,2,1,4,4,18,6,2,0,49,6.07
+1077,Jorge Osei,Golden Eagles CF,GK,2023-24,35,35,2170,0,0,0,0,2,0,6,9,2,7,28,5.05
+1078,Kenji Petrov,Golden Eagles CF,GK,2023-24,31,25,1600,0,1,1,1,7,0,19,0,0,8,33,5.9
+1079,Ade Walker,Golden Eagles CF,DEF,2023-24,25,35,3290,3,7,9,3,15,30,21,3,0,0,0,6.77
+1080,James Silva,Golden Eagles CF,DEF,2023-24,23,23,1495,5,6,9,6,6,38,53,1,1,0,0,6.87
+1081,Carlos Santos,Golden Eagles CF,DEF,2023-24,37,15,1125,0,2,6,5,2,37,74,8,0,0,0,6.43
+1082,Luca Nakamura,Golden Eagles CF,DEF,2023-24,30,26,1820,3,5,8,6,5,19,44,9,0,0,0,6.44
+1083,Ahmed Mueller,Golden Eagles CF,DEF,2023-24,37,18,1440,2,7,2,2,14,29,79,1,0,0,0,6.6
+1084,Yuki Okafor,Golden Eagles CF,DEF,2023-24,33,34,2516,4,0,11,7,4,28,25,2,1,0,0,6.49
+1085,Kwame Ferreira,Golden Eagles CF,DEF,2023-24,24,14,1078,4,1,11,8,4,34,76,3,2,0,0,5.91
+1086,Ivan Rossi,Golden Eagles CF,DEF,2023-24,31,9,846,2,2,2,2,7,38,30,9,2,0,0,6.47
+1087,Pedro Dubois,Golden Eagles CF,MID,2023-24,18,21,1617,7,13,25,17,16,47,54,1,2,0,0,7.38
+1088,Oluwaseun Bianchi,Golden Eagles CF,MID,2023-24,18,30,2790,7,11,17,7,18,15,28,9,0,0,0,7.24
+1089,Henri Johnson,Golden Eagles CF,MID,2023-24,24,29,2436,1,6,11,5,15,30,13,3,2,0,0,6.42
+1090,Marco Costa,Golden Eagles CF,MID,2023-24,32,32,2144,5,10,24,9,12,38,12,7,0,0,0,7.03
+1091,David Martinez,Golden Eagles CF,MID,2023-24,33,10,640,6,10,22,22,19,20,31,6,2,0,0,6.76
+1092,Emil Park,Golden Eagles CF,MID,2023-24,36,24,1800,11,14,21,17,20,35,28,5,1,0,0,7.53
+1093,Seun Kim,Golden Eagles CF,MID,2023-24,37,31,2852,8,8,16,12,10,13,33,2,1,0,0,7.59
+1094,Takeshi Tanaka,Golden Eagles CF,MID,2023-24,37,22,2068,5,17,18,11,22,43,43,8,2,0,0,7.61
+1095,Rui Mensah,Golden Eagles CF,FWD,2023-24,18,29,2233,10,9,30,17,9,38,10,0,0,0,0,7.31
+1096,Matteo Andersen,Golden Eagles CF,FWD,2023-24,26,36,2412,11,3,21,14,9,31,15,8,0,0,0,7.1
+1097,Jorge Osei,Golden Eagles CF,FWD,2023-24,20,36,2340,1,7,30,20,7,74,14,4,2,0,0,5.94
+1098,Kenji Petrov,Golden Eagles CF,FWD,2023-24,28,26,1976,17,5,28,22,8,10,17,7,2,0,0,7.47
+1099,Ade Walker,Golden Eagles CF,FWD,2023-24,26,11,759,22,0,24,24,7,25,14,7,1,0,0,7.75
+1100,James Silva,Golden Eagles CF,FWD,2023-24,26,23,2070,7,0,24,22,9,65,11,3,2,0,0,6.29
+1101,Carlos Santos,Silver Fox Athletic,GK,2023-24,20,35,2835,0,0,0,0,1,3,16,3,1,15,63,6.29
+1102,Luca Nakamura,Silver Fox Athletic,GK,2023-24,22,22,1606,0,1,2,0,5,2,5,5,1,3,29,5.52
+1103,Ahmed Mueller,Silver Fox Athletic,GK,2023-24,29,31,2573,0,1,0,0,6,3,16,8,1,9,20,5.51
+1104,Yuki Okafor,Silver Fox Athletic,DEF,2023-24,29,31,2325,5,6,7,6,14,36,31,9,1,0,0,7.09
+1105,Kwame Ferreira,Silver Fox Athletic,DEF,2023-24,29,8,624,0,2,3,3,5,24,47,7,2,0,0,5.75
+1106,Ivan Rossi,Silver Fox Athletic,DEF,2023-24,31,14,1064,3,2,3,3,3,30,70,3,0,0,0,6.69
+1107,Pedro Dubois,Silver Fox Athletic,DEF,2023-24,37,19,1159,1,0,8,8,3,28,25,6,2,0,0,5.64
+1108,Oluwaseun Bianchi,Silver Fox Athletic,DEF,2023-24,26,19,1710,3,1,8,7,3,7,62,2,1,0,0,6.05
+1109,Henri Johnson,Silver Fox Athletic,DEF,2023-24,28,13,949,5,7,9,9,13,37,61,5,2,0,0,7.1
+1110,Marco Costa,Silver Fox Athletic,DEF,2023-24,22,5,385,5,1,13,10,2,35,44,7,0,0,0,6.78
+1111,David Martinez,Silver Fox Athletic,DEF,2023-24,22,6,438,0,2,9,8,10,27,31,3,2,0,0,5.7
+1112,Emil Park,Silver Fox Athletic,MID,2023-24,27,29,2436,7,14,21,21,23,27,26,0,2,0,0,7.67
+1113,Seun Kim,Silver Fox Athletic,MID,2023-24,20,27,2268,8,6,24,13,6,42,37,5,1,0,0,7.37
+1114,Takeshi Tanaka,Silver Fox Athletic,MID,2023-24,31,27,2025,9,12,22,13,16,65,38,2,1,0,0,7.18
+1115,Rui Mensah,Silver Fox Athletic,MID,2023-24,37,35,3045,6,4,15,7,5,44,50,9,1,0,0,6.07
+1116,Matteo Andersen,Silver Fox Athletic,MID,2023-24,31,18,1512,4,11,13,6,13,25,26,7,1,0,0,6.57
+1117,Jorge Osei,Silver Fox Athletic,MID,2023-24,32,35,3150,5,6,19,13,12,37,13,1,0,0,0,6.75
+1118,Kenji Petrov,Silver Fox Athletic,MID,2023-24,23,35,2450,6,5,8,7,11,25,45,8,0,0,0,6.8
+1119,Ade Walker,Silver Fox Athletic,MID,2023-24,29,6,414,11,14,18,12,21,27,19,8,0,0,0,7.88
+1120,James Silva,Silver Fox Athletic,FWD,2023-24,32,33,2013,20,1,47,40,8,16,13,4,0,0,0,7.63
+1121,Carlos Santos,Silver Fox Athletic,FWD,2023-24,18,32,2560,20,9,46,21,18,79,2,2,2,0,0,8.24
+1122,Luca Nakamura,Silver Fox Athletic,FWD,2023-24,19,36,2304,1,9,4,4,14,12,19,9,0,0,0,6.11
+1123,Ahmed Mueller,Silver Fox Athletic,FWD,2023-24,23,8,568,22,9,26,23,16,55,3,2,1,0,0,8.87
+1124,Yuki Okafor,Silver Fox Athletic,FWD,2023-24,22,20,1660,2,7,16,3,13,39,22,1,2,0,0,6.34
+1125,Kwame Ferreira,Silver Fox Athletic,FWD,2023-24,25,20,1600,5,1,28,12,4,70,24,3,2,0,0,6.62
+1126,Ivan Rossi,Thunder Valley FC,GK,2023-24,30,17,1411,0,1,2,2,9,0,10,0,1,3,81,6.05
+1127,Pedro Dubois,Thunder Valley FC,GK,2023-24,36,37,2405,0,0,2,2,7,2,11,9,2,16,112,5.93
+1128,Oluwaseun Bianchi,Thunder Valley FC,GK,2023-24,35,31,2852,0,0,1,1,8,3,13,9,1,10,59,6.54
+1129,Henri Johnson,Thunder Valley FC,DEF,2023-24,19,11,759,1,5,5,2,11,5,33,7,0,0,0,6.13
+1130,Marco Costa,Thunder Valley FC,DEF,2023-24,33,7,609,1,2,7,1,4,15,23,7,0,0,0,5.44
+1131,David Martinez,Thunder Valley FC,DEF,2023-24,19,25,2350,1,5,4,1,10,29,24,5,1,0,0,5.72
+1132,Emil Park,Thunder Valley FC,DEF,2023-24,32,35,2100,2,7,4,4,13,36,46,6,1,0,0,6.98
+1133,Seun Kim,Thunder Valley FC,DEF,2023-24,18,6,486,5,6,11,7,8,17,42,4,0,0,0,7.16
+1134,Takeshi Tanaka,Thunder Valley FC,DEF,2023-24,32,9,630,1,2,7,4,3,29,73,1,2,0,0,6.03
+1135,Rui Mensah,Thunder Valley FC,DEF,2023-24,29,32,2816,0,3,0,0,5,27,43,1,1,0,0,5.22
+1136,Matteo Andersen,Thunder Valley FC,DEF,2023-24,28,13,1131,4,7,12,12,11,22,70,9,1,0,0,6.68
+1137,Jorge Osei,Thunder Valley FC,MID,2023-24,26,9,819,6,16,15,13,23,46,58,2,2,0,0,8.01
+1138,Kenji Petrov,Thunder Valley FC,MID,2023-24,36,32,2656,6,15,11,11,17,58,38,0,1,0,0,7.17
+1139,Ade Walker,Thunder Valley FC,MID,2023-24,35,8,568,4,4,14,6,10,21,33,9,2,0,0,6.58
+1140,James Silva,Thunder Valley FC,MID,2023-24,29,36,2484,5,2,21,16,6,11,48,5,0,0,0,6.85
+1141,Carlos Santos,Thunder Valley FC,MID,2023-24,34,9,720,4,17,16,12,18,15,45,3,0,0,0,7.17
+1142,Luca Nakamura,Thunder Valley FC,MID,2023-24,18,21,1806,2,13,9,7,19,44,26,1,1,0,0,7.38
+1143,Ahmed Mueller,Thunder Valley FC,MID,2023-24,23,8,592,6,5,22,12,13,53,34,7,0,0,0,6.74
+1144,Yuki Okafor,Thunder Valley FC,MID,2023-24,37,5,400,9,7,13,10,11,58,38,0,2,0,0,7.14
+1145,Kwame Ferreira,Thunder Valley FC,FWD,2023-24,35,6,462,28,1,35,29,1,49,21,4,1,0,0,8.66
+1146,Ivan Rossi,Thunder Valley FC,FWD,2023-24,34,18,1656,23,2,44,44,4,26,18,5,1,0,0,8.22
+1147,Pedro Dubois,Thunder Valley FC,FWD,2023-24,31,17,1462,28,12,51,50,12,63,18,5,0,0,0,9.34
+1148,Oluwaseun Bianchi,Thunder Valley FC,FWD,2023-24,29,34,2856,17,12,21,18,13,20,16,5,1,0,0,8.76
+1149,Henri Johnson,Thunder Valley FC,FWD,2023-24,33,17,1105,1,1,15,2,3,69,11,9,0,0,0,5.64
+1150,Marco Costa,Thunder Valley FC,FWD,2023-24,26,37,2479,11,6,35,23,13,16,24,0,2,0,0,7.75
+1151,David Martinez,Coastline City SC,GK,2023-24,22,25,2350,0,1,0,0,7,3,15,5,2,4,27,5.88
+1152,Emil Park,Coastline City SC,GK,2023-24,20,34,3128,0,0,0,0,1,2,13,3,2,4,30,5.29
+1153,Seun Kim,Coastline City SC,GK,2023-24,19,33,3102,0,0,0,0,8,4,5,5,1,7,27,6.06
+1154,Takeshi Tanaka,Coastline City SC,DEF,2023-24,27,30,1980,4,1,8,7,3,6,64,6,1,0,0,6.12
+1155,Rui Mensah,Coastline City SC,DEF,2023-24,18,36,3204,1,4,4,2,10,24,56,2,2,0,0,6.3
+1156,Matteo Andersen,Coastline City SC,DEF,2023-24,36,35,2240,4,7,6,5,9,32,54,3,1,0,0,6.65
+1157,Jorge Osei,Coastline City SC,DEF,2023-24,32,36,2880,5,5,13,13,5,37,31,3,1,0,0,6.98
+1158,Kenji Petrov,Coastline City SC,DEF,2023-24,26,12,972,5,3,14,14,3,37,58,8,0,0,0,6.42
+1159,Ade Walker,Coastline City SC,DEF,2023-24,34,7,518,1,4,1,1,11,20,22,3,0,0,0,6.14
+1160,James Silva,Coastline City SC,DEF,2023-24,23,13,936,1,5,4,3,10,26,65,9,0,0,0,5.97
+1161,Carlos Santos,Coastline City SC,DEF,2023-24,20,32,2912,0,4,5,4,9,23,33,5,2,0,0,6.16
+1162,Luca Nakamura,Coastline City SC,MID,2023-24,24,37,2516,12,12,17,13,15,24,47,6,1,0,0,7.86
+1163,Ahmed Mueller,Coastline City SC,MID,2023-24,21,12,840,3,16,11,10,22,50,30,5,2,0,0,6.89
+1164,Yuki Okafor,Coastline City SC,MID,2023-24,21,17,1513,13,13,27,15,18,45,21,1,0,0,0,8.36
+1165,Kwame Ferreira,Coastline City SC,MID,2023-24,31,25,1700,8,13,19,18,15,33,24,9,2,0,0,7.44
+1166,Ivan Rossi,Coastline City SC,MID,2023-24,22,6,468,5,3,23,17,7,32,58,4,1,0,0,6.85
+1167,Pedro Dubois,Coastline City SC,MID,2023-24,21,27,2538,11,2,15,15,11,65,41,1,1,0,0,7.36
+1168,Oluwaseun Bianchi,Coastline City SC,MID,2023-24,33,12,900,6,17,11,6,26,11,26,8,0,0,0,7.51
+1169,Henri Johnson,Coastline City SC,MID,2023-24,36,14,1316,5,13,14,13,19,30,43,2,2,0,0,7.2
+1170,Marco Costa,Coastline City SC,FWD,2023-24,20,37,3182,20,11,38,21,11,26,7,7,2,0,0,8.38
+1171,David Martinez,Coastline City SC,FWD,2023-24,20,18,1566,24,13,34,27,16,64,23,1,2,0,0,8.85
+1172,Emil Park,Coastline City SC,FWD,2023-24,26,9,792,20,2,26,23,8,76,2,1,0,0,0,7.77
+1173,Seun Kim,Coastline City SC,FWD,2023-24,30,35,2450,18,12,45,45,21,17,2,3,1,0,0,8.67
+1174,Takeshi Tanaka,Coastline City SC,FWD,2023-24,33,17,1547,1,0,29,9,3,79,6,0,2,0,0,5.33
+1175,Rui Mensah,Coastline City SC,FWD,2023-24,27,10,870,2,6,14,8,9,13,2,1,0,0,0,6.6
+1176,Matteo Andersen,Mountain Peak United,GK,2023-24,30,32,1984,0,1,2,0,7,2,8,7,0,13,80,5.82
+1177,Jorge Osei,Mountain Peak United,GK,2023-24,29,6,372,0,1,2,1,10,4,11,6,2,3,86,5.49
+1178,Kenji Petrov,Mountain Peak United,GK,2023-24,31,29,2552,0,0,2,2,7,1,12,7,2,2,52,5.78
+1179,Ade Walker,Mountain Peak United,DEF,2023-24,23,32,2368,5,5,12,7,10,32,75,4,0,0,0,6.58
+1180,James Silva,Mountain Peak United,DEF,2023-24,29,8,616,3,0,9,5,3,10,30,9,0,0,0,5.73
+1181,Carlos Santos,Mountain Peak United,DEF,2023-24,24,37,3182,5,7,6,5,11,31,47,6,2,0,0,6.94
+1182,Luca Nakamura,Mountain Peak United,DEF,2023-24,26,6,414,5,0,6,6,1,39,40,3,2,0,0,6.38
+1183,Ahmed Mueller,Mountain Peak United,DEF,2023-24,22,30,2580,4,0,8,7,6,19,61,3,0,0,0,6.78
+1184,Yuki Okafor,Mountain Peak United,DEF,2023-24,37,14,994,1,0,2,1,5,39,38,5,1,0,0,6.15
+1185,Kwame Ferreira,Mountain Peak United,DEF,2023-24,36,29,2030,4,3,13,9,12,6,22,0,2,0,0,6.75
+1186,Ivan Rossi,Mountain Peak United,DEF,2023-24,36,29,1943,5,5,5,5,13,27,54,7,1,0,0,6.45
+1187,Pedro Dubois,Mountain Peak United,MID,2023-24,19,26,2418,1,13,13,4,19,22,18,2,2,0,0,6.13
+1188,Oluwaseun Bianchi,Mountain Peak United,MID,2023-24,19,18,1332,10,9,14,11,15,43,20,9,1,0,0,7.66
+1189,Henri Johnson,Mountain Peak United,MID,2023-24,22,21,1470,8,13,12,8,13,11,19,7,2,0,0,7.7
+1190,Marco Costa,Mountain Peak United,MID,2023-24,32,31,2635,2,10,13,3,16,57,42,8,0,0,0,6.81
+1191,David Martinez,Mountain Peak United,MID,2023-24,18,10,880,2,13,20,10,16,39,34,3,1,0,0,7.25
+1192,Emil Park,Mountain Peak United,MID,2023-24,35,8,560,10,10,18,12,14,17,25,4,1,0,0,7.13
+1193,Seun Kim,Mountain Peak United,MID,2023-24,35,18,1224,8,10,20,10,18,53,21,4,1,0,0,7.06
+1194,Takeshi Tanaka,Mountain Peak United,MID,2023-24,31,21,1344,7,6,10,9,7,28,51,3,1,0,0,7.51
+1195,Rui Mensah,Mountain Peak United,FWD,2023-24,24,24,1896,12,8,29,14,12,56,3,3,1,0,0,7.58
+1196,Matteo Andersen,Mountain Peak United,FWD,2023-24,26,7,420,16,9,33,31,18,62,18,8,2,0,0,7.97
+1197,Jorge Osei,Mountain Peak United,FWD,2023-24,30,10,830,17,7,42,42,15,75,17,2,0,0,0,8.37
+1198,Kenji Petrov,Mountain Peak United,FWD,2023-24,35,34,2822,20,13,41,27,19,45,5,6,0,0,0,8.19
+1199,Ade Walker,Mountain Peak United,FWD,2023-24,23,32,2624,28,12,53,29,12,33,6,2,0,0,0,9.5
+1200,James Silva,Mountain Peak United,FWD,2023-24,28,26,2132,29,2,40,35,9,48,9,5,0,0,0,9.37
+1201,Carlos Santos,Riverside Rovers,GK,2023-24,29,24,1584,0,0,0,0,6,2,5,8,2,11,64,5.97
+1202,Luca Nakamura,Riverside Rovers,GK,2023-24,23,18,1314,0,1,1,1,7,0,19,3,0,1,91,6.06
+1203,Ahmed Mueller,Riverside Rovers,GK,2023-24,24,35,3150,0,1,0,0,3,2,6,1,0,11,88,6.43
+1204,Yuki Okafor,Riverside Rovers,DEF,2023-24,33,24,1512,5,1,7,5,6,22,78,0,0,0,0,6.95
+1205,Kwame Ferreira,Riverside Rovers,DEF,2023-24,37,22,1804,4,4,4,4,10,21,75,5,1,0,0,7.0
+1206,Ivan Rossi,Riverside Rovers,DEF,2023-24,22,26,2080,3,0,6,5,5,22,22,7,1,0,0,6.03
+1207,Pedro Dubois,Riverside Rovers,DEF,2023-24,22,31,2728,2,6,2,2,9,14,29,2,1,0,0,6.51
+1208,Oluwaseun Bianchi,Riverside Rovers,DEF,2023-24,33,6,414,4,6,5,4,11,34,21,8,2,0,0,6.78
+1209,Henri Johnson,Riverside Rovers,DEF,2023-24,29,27,2403,3,7,10,9,8,15,23,7,1,0,0,7.02
+1210,Marco Costa,Riverside Rovers,DEF,2023-24,22,34,2516,0,7,8,4,7,26,56,1,0,0,0,6.35
+1211,David Martinez,Riverside Rovers,DEF,2023-24,36,16,960,5,0,13,6,8,32,66,5,1,0,0,5.99
+1212,Emil Park,Riverside Rovers,MID,2023-24,31,14,1106,8,5,14,14,8,40,57,2,0,0,0,7.2
+1213,Seun Kim,Riverside Rovers,MID,2023-24,28,14,1302,8,8,10,10,10,47,38,1,2,0,0,6.89
+1214,Takeshi Tanaka,Riverside Rovers,MID,2023-24,29,20,1620,3,7,18,9,10,39,58,1,0,0,0,6.92
+1215,Rui Mensah,Riverside Rovers,MID,2023-24,34,13,1092,13,13,28,23,17,45,23,0,2,0,0,8.45
+1216,Matteo Andersen,Riverside Rovers,MID,2023-24,21,5,425,8,5,24,24,12,24,15,1,0,0,0,6.82
+1217,Jorge Osei,Riverside Rovers,MID,2023-24,23,23,1380,4,7,23,10,12,60,58,5,2,0,0,6.55
+1218,Kenji Petrov,Riverside Rovers,MID,2023-24,32,35,3010,10,12,18,15,14,31,40,7,1,0,0,7.91
+1219,Ade Walker,Riverside Rovers,MID,2023-24,32,31,2015,4,12,21,9,21,38,46,8,2,0,0,6.5
+1220,James Silva,Riverside Rovers,FWD,2023-24,24,36,3240,5,3,22,11,9,42,11,8,2,0,0,6.43
+1221,Carlos Santos,Riverside Rovers,FWD,2023-24,27,11,957,10,8,32,28,13,76,23,4,1,0,0,7.42
+1222,Luca Nakamura,Riverside Rovers,FWD,2023-24,37,27,1620,19,3,28,20,7,10,16,5,0,0,0,7.93
+1223,Ahmed Mueller,Riverside Rovers,FWD,2023-24,25,14,840,15,11,33,17,13,43,10,4,1,0,0,8.03
+1224,Yuki Okafor,Riverside Rovers,FWD,2023-24,27,5,390,17,0,29,22,2,34,22,0,0,0,0,7.78
+1225,Kwame Ferreira,Riverside Rovers,FWD,2023-24,33,32,2624,19,5,22,21,12,70,11,0,0,0,0,8.72
+1226,Ivan Rossi,Northgate City FC,GK,2023-24,23,20,1660,0,1,1,1,3,1,19,8,0,0,94,5.68
+1227,Pedro Dubois,Northgate City FC,GK,2023-24,21,29,2436,0,1,2,1,8,3,6,5,1,1,115,5.48
+1228,Oluwaseun Bianchi,Northgate City FC,GK,2023-24,31,33,2805,0,0,2,1,6,3,7,6,1,2,39,5.25
+1229,Henri Johnson,Northgate City FC,DEF,2023-24,35,14,1134,5,2,9,6,7,35,69,3,1,0,0,5.99
+1230,Marco Costa,Northgate City FC,DEF,2023-24,36,26,1976,0,0,4,3,3,14,58,0,1,0,0,5.44
+1231,David Martinez,Northgate City FC,DEF,2023-24,20,14,1092,5,1,5,5,3,16,31,3,2,0,0,6.65
+1232,Emil Park,Northgate City FC,DEF,2023-24,25,9,612,2,3,2,2,6,15,58,6,2,0,0,6.78
+1233,Seun Kim,Northgate City FC,DEF,2023-24,26,8,536,2,2,4,3,6,11,29,0,1,0,0,6.13
+1234,Takeshi Tanaka,Northgate City FC,DEF,2023-24,24,13,949,1,7,10,9,7,37,40,4,1,0,0,6.42
+1235,Rui Mensah,Northgate City FC,DEF,2023-24,27,27,1890,3,1,11,3,4,7,25,6,2,0,0,5.53
+1236,Matteo Andersen,Northgate City FC,DEF,2023-24,25,9,684,4,0,11,10,7,28,33,6,2,0,0,5.85
+1237,Jorge Osei,Northgate City FC,MID,2023-24,25,25,2025,10,6,27,23,7,24,32,4,2,0,0,6.97
+1238,Kenji Petrov,Northgate City FC,MID,2023-24,21,6,378,11,14,22,13,14,29,38,6,0,0,0,8.08
+1239,Ade Walker,Northgate City FC,MID,2023-24,29,21,1407,2,9,10,4,10,19,36,4,0,0,0,6.54
+1240,James Silva,Northgate City FC,MID,2023-24,27,11,924,4,7,14,10,8,35,16,5,0,0,0,6.2
+1241,Carlos Santos,Northgate City FC,MID,2023-24,21,16,1296,10,9,14,10,16,57,29,3,0,0,0,6.98
+1242,Luca Nakamura,Northgate City FC,MID,2023-24,25,11,880,0,3,11,5,11,12,59,2,1,0,0,6.17
+1243,Ahmed Mueller,Northgate City FC,MID,2023-24,23,29,2407,7,9,25,19,12,69,53,1,0,0,0,7.11
+1244,Yuki Okafor,Northgate City FC,MID,2023-24,20,12,720,7,11,15,15,18,38,47,0,0,0,0,7.55
+1245,Kwame Ferreira,Northgate City FC,FWD,2023-24,33,16,976,23,10,42,37,16,10,11,6,0,0,0,9.05
+1246,Ivan Rossi,Northgate City FC,FWD,2023-24,35,23,1955,12,9,33,12,16,69,19,7,1,0,0,7.57
+1247,Pedro Dubois,Northgate City FC,FWD,2023-24,27,18,1584,23,2,48,45,4,19,9,2,0,0,0,8.05
+1248,Oluwaseun Bianchi,Northgate City FC,FWD,2023-24,21,17,1139,5,12,23,20,14,17,2,1,1,0,0,7.07
+1249,Henri Johnson,Northgate City FC,FWD,2023-24,32,18,1134,23,12,52,41,12,49,4,9,0,0,0,9.32
+1250,Marco Costa,Northgate City FC,FWD,2023-24,29,27,2079,22,1,42,32,5,22,3,1,2,0,0,8.4
